@@ -4,6 +4,22 @@ date: "2024-11-10T22:40:32.169Z"
 description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
+Regardless of who you are, this book is written for you. And I don’t say
+that lightly. There are chapters in this book that cover everything from
+hacking the interview process and crafting a killer resume, to creating a
+wildly successful blog and building your own personal brand, to being
+extremely productive and learning how to deal with burnout, and even
+investing in real estate and losing weight. 
+
+This book talk a lot about blogging and how it is important. Specially when you are a freelancer or consultant like me, you‘ll find that a successful blog can bring many clients your way instead of having to go find them by yourself.
+
+Writing articles can also help you become a better developer and communicator because there is a huge work of researching, coding, learning, behind a blog post.
+
+這不是一本教技能的書, 而是一本教思維的書
+
+看過太多軟體工程師說要寫部落格, 是因為
+
+
 為什麼要寫部落? 
 為什麼不用某些平台來寫部落格?
 為什麼用gatsby來寫部落格?
@@ -21,3 +37,31 @@ description: This is a custom description for SEO and Open Graph purposes, rathe
 
 用github托管
 先在repository開專案, 用git desktop 下載下來, 把gatsby blog檔案拖過去
+
+
+---
+
+
+> 使用 Gatsby 前置環境
+
+1. Node.js (v20.18.0 LTS)
+2. Git
+3. Gatsby cli (5.13.3)
+
+---
+
+> 安裝 gatsby-cli
+
+```shell
+npm install -g gatsby-cli
+```
+
+```shell
+gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world
+```
+
+```shell
+gatsby new [SITE_DIRECTORY_NAME] [URL_OF_STARTER_GITHUB_REPO]
+cd hello-world
+gatsby develop
+```

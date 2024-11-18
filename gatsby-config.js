@@ -8,6 +8,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
+  pathPrefix: "/gatsby-blog-edmond", // repository name
   siteMetadata: {
     title: `Lucrademia`,
     author: {

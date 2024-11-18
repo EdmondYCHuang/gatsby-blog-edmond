@@ -26,6 +26,7 @@ const BlogIndex = ({ data, location }) => {
   // at least 1 post
   return (
     <Layout location={location} title={siteTitle}>
+      <Link to="/about-test">go about me</Link>
       <Bio />
       <ol style={{ listStyle: `none` }}>
         {posts.map(post => {
