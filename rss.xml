@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 18 Nov 2024 01:11:28 GMT</lastBuildDate><item><title><![CDATA[open-graph-and-SEO]]></title><description><![CDATA[could you give a short description of this post for SEO and open graph
+ChatGPT
+Certainly! Here’s a short SEO-friendly description and Open…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/open-graph-and-SEO/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/open-graph-and-SEO/</guid><pubDate>Tue, 12 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;could you give a short description of this post for SEO and open graph
+ChatGPT
+Certainly! Here’s a short SEO-friendly description and Open Graph (OG) snippet for your post:&lt;/p&gt;
+&lt;p&gt;SEO Description: &quot;Learn how to create a fast, modern, and scalable blog using Gatsby, a popular static site generator. This guide covers everything from setup to deployment, with tips on using GraphQL and React to build a blog that’s optimized for performance and SEO.&quot;&lt;/p&gt;
+&lt;p&gt;Open Graph Description: &quot;Discover how to build your own blog with Gatsby! In this step-by-step guide, we explore how to use Gatsby’s static site generation, GraphQL, and React to create a high-performance blog. Perfect for beginners and developers looking to boost SEO and speed.&quot;&lt;/p&gt;
+&lt;p&gt;These descriptions are designed to appeal to both search engines and social media, helping drive engagement and clicks. Let me know if you&apos;d like to refine it further!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[use-chatGPT-to-design-web-layout]]></title><description><![CDATA[I want to create a 3-column layout with the interactive functionality. The left Column displays a static image. The middle column contains…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/use-chatGPT-to-design-web-layout/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/use-chatGPT-to-design-web-layout/</guid><pubDate>Tue, 12 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;I want to create a 3-column layout with the interactive functionality. The left Column displays a static image. The middle column contains six buttons arranged vertically, each with descriptive text. The right column shows a different image based on the button clicked.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Step 1: HTML Structure
+Here&apos;s the HTML setup for the 3-column layout and buttons:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token doctype&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;!&lt;/span&gt;&lt;span class=&quot;token doctype-tag&quot;&gt;DOCTYPE&lt;/span&gt; &lt;span class=&quot;token name&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;html&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;lang&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;en&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;head&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;meta&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;charset&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;UTF-8&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;meta&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;viewport&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;content&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;width=device-width, initial-scale=1.0&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;3-Column Layout with Dynamic Images&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;title&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;link&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;rel&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;stylesheet&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;href&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;styles.css&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;head&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;container&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- Left Column --&gt;&lt;/span&gt;
+        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;column left-column&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;img&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;default.jpg&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;Static Image&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;staticImage&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+        &lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- Middle Column --&gt;&lt;/span&gt;
+        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;column middle-column&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;button&lt;/span&gt; &lt;span class=&quot;token special-attr&quot;&gt;&lt;span class=&quot;token attr-name&quot;&gt;onclick&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token value javascript language-javascript&quot;&gt;&lt;span class=&quot;token function&quot;&gt;showImage&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;image1.jpg&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Button 1&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;button&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;button&lt;/span&gt; &lt;span class=&quot;token special-attr&quot;&gt;&lt;span class=&quot;token attr-name&quot;&gt;onclick&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token value javascript language-javascript&quot;&gt;&lt;span class=&quot;token function&quot;&gt;showImage&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;image2.jpg&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Button 2&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;button&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;button&lt;/span&gt; &lt;span class=&quot;token special-attr&quot;&gt;&lt;span class=&quot;token attr-name&quot;&gt;onclick&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token value javascript language-javascript&quot;&gt;&lt;span class=&quot;token function&quot;&gt;showImage&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;image3.jpg&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Button 3&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;button&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;button&lt;/span&gt; &lt;span class=&quot;token special-attr&quot;&gt;&lt;span class=&quot;token attr-name&quot;&gt;onclick&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token value javascript language-javascript&quot;&gt;&lt;span class=&quot;token function&quot;&gt;showImage&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;image4.jpg&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Button 4&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;button&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;button&lt;/span&gt; &lt;span class=&quot;token special-attr&quot;&gt;&lt;span class=&quot;token attr-name&quot;&gt;onclick&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;token value javascript language-javascript&quot;&gt;&lt;span class=&quot;token function&quot;&gt;showImage&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;image5.jpg&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Button 5&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;button&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+        &lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- Right Column --&gt;&lt;/span&gt;
+        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;class&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;column right-column&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;img&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;placeholder.jpg&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;alt&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;Display Image&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;id&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;displayImage&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+        &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;div&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+
+    &lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;script.js&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script&quot;&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;html&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Step 2: CSS for Styling and Layout
+Create a styles.css file to style the 3-column layout:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; Arial&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; sans-serif&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;.container&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100vh&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;.column&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;flex&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 1&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;align-items&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;justify-content&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 20px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;.left-column, .right-column&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #f0f0f0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;.middle-column&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #ddd&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;flex-direction&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; column&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;justify-content&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;button&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 10px 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 10px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 16px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;cursor&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; pointer&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;max-height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Step 3: JavaScript for Interactive Image Display
+Create a script.js file to handle button clicks and update the displayed image in the right column.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;showImage&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;imageSrc&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;// Get the image element in the right column&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; displayImage &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;getElementById&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;displayImage&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;token comment&quot;&gt;// Update the source of the display image&lt;/span&gt;
+    displayImage&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;src &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; imageSrc&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Explanation of the Code
+HTML:&lt;/p&gt;
+&lt;p&gt;Each button in the middle column has an onclick event that triggers the showImage function and passes the corresponding image filename as a parameter.
+The left column displays a static image, and the right column contains an image element whose src will be dynamically updated.
+CSS:&lt;/p&gt;
+&lt;p&gt;The container is set to display: flex to create a 3-column layout.
+The .middle-column is styled to arrange the buttons vertically.
+JavaScript:&lt;/p&gt;
+&lt;p&gt;The showImage function takes an image filename (imageSrc) as a parameter, finds the displayImage element in the right column, and changes its src attribute to display the selected image.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;i hope the middle column width account for 10% of all layout. Left and right columns account for 45% of layout width separately&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;ChatGPT 說：
+ChatGPT
+To adjust the column widths so that the middle column occupies 10% of the layout, while the left and right columns each take up 45%, you can modify the CSS flex-basis properties accordingly. This will ensure the desired layout proportions without the need for complex calculations.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;body&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; Arial&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; sans-serif&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;.container&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100vh&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;.column&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;align-items&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;justify-content&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 20px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;/* Set width for each column */&lt;/span&gt;
+&lt;span class=&quot;token selector&quot;&gt;.left-column&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;flex-basis&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 45%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #f0f0f0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;.middle-column&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;flex-basis&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 10%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #ddd&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; flex&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;flex-direction&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; column&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;justify-content&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; center&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;.right-column&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;flex-basis&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 45%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #f0f0f0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;/* Button styling */&lt;/span&gt;
+&lt;span class=&quot;token selector&quot;&gt;button&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 10px 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 10px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 16px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;cursor&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; pointer&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;/* Image styling */&lt;/span&gt;
+&lt;span class=&quot;token selector&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;max-height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 100%&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I hope the button is made of designer style&lt;/p&gt;
+&lt;p&gt;ChatGPT 說：
+ChatGPT
+To give the buttons a more designer-styled look, we can add some modern UI touches such as shadows, gradients, subtle animations, and hover effects. This styling will make the buttons look polished and interactive.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;/* Button Styling */&lt;/span&gt;
+&lt;span class=&quot;token selector&quot;&gt;button&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;margin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 10px 0&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 12px 20px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 16px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;font-weight&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; bold&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; #fff&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;linear-gradient&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;135deg&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; #6a11cb 0%&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; #2575fc 100%&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;border&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; none&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;border-radius&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 8px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;cursor&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; pointer&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;transition&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; transform 0.3s ease&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; box-shadow 0.3s ease&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;box-shadow&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0 4px 8px &lt;span class=&quot;token function&quot;&gt;rgba&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0.2&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;/* Hover and Active Effects */&lt;/span&gt;
+&lt;span class=&quot;token selector&quot;&gt;button:hover&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;translateY&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;-3px&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;box-shadow&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0 6px 12px &lt;span class=&quot;token function&quot;&gt;rgba&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0.3&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token selector&quot;&gt;button:active&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;transform&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;translateY&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;1px&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;box-shadow&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 0 2px 4px &lt;span class=&quot;token function&quot;&gt;rgba&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;0&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; 0.2&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;/* Add focus effect for accessibility */&lt;/span&gt;
+&lt;span class=&quot;token selector&quot;&gt;button:focus&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;outline&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 2px solid #2575fc&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[突發寄想]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/突發奇想/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/突發奇想/</guid><pubDate>Tue, 12 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;p&gt;有成就的人或動漫主角的人設設定不是父母雙亡就是父母超強, 因為人的思考太容易被父母影響, 邵書衍父母是教授, 高中就開始讀原文書, 還知道要修什麼課, 卻說&quot;我也是有努力的&quot;, 但我自己到大學卻連要修什麼課都不知道, &quot;憑感覺&quot;, &quot;想挑戰自己&quot;等想法只是浪費時間&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;大學研究所看起來像是研究, 但其實都沒有突破性的創新研究, 本質上就是一個工程師, 真正的突破性創新很可能都是意外發現的, 創業本質上還比較像在做研究, 因為能活下來的一定是解決了一個獨一無二的問題&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;創業要有的三個技能, 學習, 實作, 銷售, 酒香不怕巷子深是錯的觀念&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;對銷售員的想法是錯的, 銷售員是解決不確定的問題, 技術員通常只解決確定的問題, 答案都可以用AI找到, soft skill其實就是解決不確定問題的能力&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用ChatGPT做研究而得到諾貝爾獎算是&quot;做研究&quot;嗎?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;綠官逼S公務員還禁蓋白布!扯亡者他過很好難道你S過? 壓力太大, 不如用這個精力來創自己的業, 很多人做別人的事盡心盡力, 但對自己的事卻漠不關心&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;你比較像人還是AI? 人會獨立思考和判斷, 但AI只會根據過去來決定答案, 有的人喜歡別人幫他做決定, 有的人喜歡自己想答案&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;為什麼要做自媒體? 為什麼要做開源? 有的人做開源是為了要證明自己會做專案, 但拿到工作後, 就停止了自己的專案, 根本在浪費時間&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;就像婚姻一樣, 是在找自己一生的合夥人, 做自媒體和開源其實本質上就是在宣揚自己的理念和找合夥人, 而不是展現履歷而已. 做自媒體並不是賺錢為目的, 創造連結和羈絆, 制造請別人幫忙的機會, 才是目的, 錢只是一個過程&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;說沒事的人不代表真的沒事, 是你自己要看他有沒有事&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第12章人類和機器 科學家通過研究揚名立萬, 在某個領域發表論文, 代表要遵守領域之間的界限, 就像機器只限於完成某個任務, 其他都不會, 你能完成的任務越多, 你越像人, 你能完成的任務越少, 你就越像機器, 未來最有價值不是能代替人解決問題, 而是如何能幫人解決問題&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;社会阶层是小说《了不起的盖茨比》中的一个重要主题，它反映了20世纪20年代上流社会的阶层分化和社会固化的现象。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;小说中的社会阶层主要分为三类：旧贵族、新贵族和底层人士。旧贵族是指出生在富裕家庭的人，他们拥有大量财富和社会地位，但他们的影响力逐渐被新贵族所代替。新贵族是指通过商业、金融和娱乐等行业赚取大量财富的人，他们没有出生贵族，但他们通过财富和地位来赢得上流社会的认可和尊重。底层人士则是指那些生活在贫困和艰苦环境中的人，他们没有财富和地位，被上流社会看作是低人一等的人。&lt;/p&gt;
+&lt;p&gt;在小说中，这三类人物之间的阶层分化和冲突，导致了许多悲剧和矛盾。盖茨比身为新贵族，却一直想要与旧贵族的黛西在一起，最终却未能如愿。汤姆身为旧贵族，却对自己的地位和权力过于自信，最终导致了自己婚姻的破裂。尼克作为中产阶级的人，虽然没有那么强烈的阶层意识，但他也无法摆脱社会阶层的限制和影响。&lt;/p&gt;
+&lt;p&gt;通过这些人物的命运和遭遇，小说展现了20世纪20年代上流社会阶层分化和社会固化的现实，揭示了社会阶层对人性和命运的影响。同时也呼唤人们关注和反思社会阶层的不公和人性的复杂性。&lt;/p&gt;
+&lt;p&gt;舊富人瞧不起新富人的賺錢方式思維&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;線上課程賺錢的dillima, 人少開始, 錢多很累, 單價高; 人多開始, 錢多很輕鬆, 單價低&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;第二人生, 一個人一生至少要在精神層次殺死自己一次&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人無法賺到認知以外的錢這句話是錯的, 人是可以賺到認知外的錢的, 不過之後會在系統化和找到原因&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;缺點就是會內耗你心理的點,就是風水, 會讓你情緒不平穩&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;社會階級的認知差異就是秘密, 人的秘密&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;所以謂的好公司是去當社畜&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;認知差異就像射彊屍, 認知高的一顆子彈就夠了, 認知低一排子彈也射不死, 無法精準打擊&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;銀行行員可以看見各種人的其中一面&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;金钱与幸福&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;小说《了不起的盖茨比》中探讨了金钱与幸福之间的关系。上流社会的人物们普遍认为金钱可以带来幸福，他们追求着金钱、地位和名誉，希望通过这些物质和表面上的成就来获得幸福。&lt;/p&gt;
+&lt;p&gt;盖茨比就是这样一位追求金钱和地位的人。他从贫穷的境地走到了富有和成功的人生，但他依然感到自己的幸福不够完整。他相信，只有拥有黛西的爱才能实现他内心深处的梦想，也就是获得真正的幸福。然而，盖茨比的努力最终没有得到他想要的结果，他最终离开了这个世界。&lt;/p&gt;
+&lt;p&gt;另一方面，小说中也有一些人物提出了质疑，认为金钱并不能带来真正的幸福。尼克是其中之一，他虽然身处上流社会，但他对金钱和地位并没有过分追求，他认为真正的幸福是建立在人际关系和内心的平静之上。这种看法也体现在黛西的朋友乔丹身上，她认为幸福是自己内心的事情，与金钱和地位并没有必然的联系。&lt;/p&gt;
+&lt;p&gt;总的来说，小说通过对金钱与幸福的探讨，传达了一种深刻的人生哲理：金钱和表面上的成功并不能保证真正的幸福，而幸福需要建立在内心的平静、人际关系和真正的情感之上。&lt;/p&gt;
+&lt;p&gt;首先，小说的叙事结构是极其复杂的。小说通过回忆录的形式，由主人公尼克·卡拉威（Nick Carraway）作为叙述者和旁观者，回忆和描写自己在上流社会生活的经历，从而呈现出一系列复杂的人物关系和事件。&lt;/p&gt;
+&lt;p&gt;其次，小说的叙述方式是间接的。作者没有直接展示人物的内心活动，而是通过人物的言谈举止、行为和环境等方式来暗示人物内心的情感和意图。例如，通过黛西的举止和表现，读者可以推断出她对盖茨比的爱和对她自己生活的不满。&lt;/p&gt;
+&lt;p&gt;此外，小说采用了象征主义的手法。作者通过一系列符号和象征物，如盖茨比的豪华府邸、绿灯、眼镜等，表现了人物的内心世界和主题。这些符号和象征物的含义不是显而易见的，需要读者通过对小说整体情节的理解和推测来理解其含义。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;其實創業, 研究和出家都只是一種態度, 和你在那裡做是無關的, 創業就是創新, 當你停止創新, 你就停止創業了, 創新本質上就是利用秘密, 秘密可以是自然的秘密或人的秘密, 創業不一定要有公司&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;用人唯親, 是因為真正的事業夥伴是可以信任的人, 事業上, 愛情上, 友情上, 可以在一方面走長久的人, 通常在其他方面也可以走的長久&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;在《大亨小傳》（The Great Gatsby）中，尼克·卡拉威（Nick Carraway）作為故事的敘述者，從頭到尾扮演了見證者和反思者的角色。他的寫作動機源於多重原因，這些原因既與故事情節相關，也與尼克的人物性格有關。&lt;/p&gt;
+&lt;p&gt;尼克寫作的原因分析&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;理解與反思過去&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;尼克寫作是他試圖整理和理解自己經歷的一種方式。在故事的開頭和結尾，尼克的敘述帶有一種回憶錄的感覺，表明他正在回顧他在紐約的那段經歷。他在與蓋茲比、黛西、湯姆及其他人接觸的過程中，目睹了貪婪、背叛和夢想破滅的現實。他希望透過寫作來反思這些經歷的意義，並理清自己的內心感受。&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;對蓋茲比的敬意與告別&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;尼克對蓋茲比抱有矛盾的情感，既同情他的夢想，也為他最終的悲劇結局感到惋惜。他寫作的部分動機是為蓋茲比留下一份紀錄，因為他認為蓋茲比的生命雖然短暫且孤獨，但他的追求與執著具有某種特殊的價值。這是尼克為蓋茲比的記憶所做的告別儀式。&lt;/p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;排解情感與創傷&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;故事的結尾表明，尼克對紐約的經歷充滿了失望和痛苦。他親眼目睹了蓋茲比的死亡、黛西和湯姆的冷酷無情，以及整個美國夢的墮落形態。寫作對尼克來說是一種治癒創傷的方式，讓他釋放壓抑的情感，並從這段經歷中重新找到自己的定位。&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;對「美國夢」的質疑&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;尼克寫作也是為了對他所見證的「美國夢」進行質疑和記錄。他在書中對社會階級、財富和道德腐敗的批判，反映了他對現代美國價值觀的失望。他寫下這些故事，既是對當下社會的反思，也是對理想主義的挽歌。&lt;/p&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;作為敘述者的責任&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;尼克是故事的主要見證人，他比其他角色更具有同理心和道德意識。這種特質使他感到有責任記錄這一切。他說過一句話表明了這種動機：&lt;/p&gt;
+&lt;p&gt;&quot;I am one of the few honest people that I have ever known.&quot;
+（「我是我認識的為數不多的誠實的人之一。」）&lt;/p&gt;
+&lt;p&gt;他認為，只有他能忠實地記錄蓋茲比的故事，並講述那些未被其他人理解或關注的真相。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;公司就是黑幫, 龍在江湖中, 最能打的打手只會被人當狗&lt;/p&gt;
+&lt;/blockquote&gt;</content:encoded></item><item><title><![CDATA[Building a Fast, Modern Blog with Gatsby: A Step-by-Step Guide]]></title><description><![CDATA[Regardless of who you are, this book is written for you. And I don’t say
+that lightly. There are chapters in this book that cover…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/build-gatsby-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/build-gatsby-blog/</guid><pubDate>Sun, 10 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Regardless of who you are, this book is written for you. And I don’t say
+that lightly. There are chapters in this book that cover everything from
+hacking the interview process and crafting a killer resume, to creating a
+wildly successful blog and building your own personal brand, to being
+extremely productive and learning how to deal with burnout, and even
+investing in real estate and losing weight.&lt;/p&gt;
+&lt;p&gt;This book talk a lot about blogging and how it is important. Specially when you are a freelancer or consultant like me, you‘ll find that a successful blog can bring many clients your way instead of having to go find them by yourself.&lt;/p&gt;
+&lt;p&gt;Writing articles can also help you become a better developer and communicator because there is a huge work of researching, coding, learning, behind a blog post.&lt;/p&gt;
+&lt;p&gt;這不是一本教技能的書, 而是一本教思維的書&lt;/p&gt;
+&lt;p&gt;看過太多軟體工程師說要寫部落格, 是因為&lt;/p&gt;
+&lt;p&gt;為什麼要寫部落?
+為什麼不用某些平台來寫部落格?
+為什麼用gatsby來寫部落格?&lt;/p&gt;
+&lt;p&gt;因為經歷了「Blogger 網誌被刪除」事件，我計畫將出事的網站搬到自架站，可以避免網站寄人籬下時，需要應付平台的各種合理或不合理規範，不過有相當多問題要解決：&lt;/p&gt;
+&lt;p&gt;要搬到哪個平台比較適當？如何抉擇各種自架站平台？
+能否沿用 Blogger 網址結構(才能不影響 SEO)？
+如何克服主機(或是網站託管平台)的流量或其他限制？
+能否匯入 Blogger 文章(是否支援 Blogger 匯入格式)？
+能否從瀏覽器進入後台？有網路就能進入後台？
+能否自動備份網站，預防網站發生任何意外？&lt;/p&gt;
+&lt;p&gt;這裡面每個主題都相當龐大，且根據自身條件，每個人的解決方案都會不太一樣。為了克服所有困難，等待網站恢復的一個多月主要都在研究這些新的領域。最終我找到的替代方案是 Hexo，本篇會說明為何選擇 Hexo，以及從 Blogger 移轉到 Hexo 的大致流程。&lt;/p&gt;
+&lt;p&gt;用github托管
+先在repository開專案, 用git desktop 下載下來, 把gatsby blog檔案拖過去&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用 Gatsby 前置環境&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;Node.js (v20.18.0 LTS)&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Gatsby cli (5.13.3)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;安裝 gatsby-cli&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;shell&quot;&gt;&lt;pre class=&quot;language-shell&quot;&gt;&lt;code class=&quot;language-shell&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-g&lt;/span&gt; gatsby-cli&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;shell&quot;&gt;&lt;pre class=&quot;language-shell&quot;&gt;&lt;code class=&quot;language-shell&quot;&gt;gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;shell&quot;&gt;&lt;pre class=&quot;language-shell&quot;&gt;&lt;code class=&quot;language-shell&quot;&gt;gatsby new &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;SITE_DIRECTORY_NAME&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;URL_OF_STARTER_GITHUB_REPO&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; hello-world
+gatsby develop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[reason-to-built-your-blog]]></title><description><![CDATA[customized your layout, but blog platform can only give you fixed layout Key Gatsby Concept 💡 Pages created in the src/pages directory use…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/reason-to-built-your-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/reason-to-built-your-blog/</guid><pubDate>Sun, 10 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;customized your layout, but blog platform can only give you fixed layout&lt;/p&gt;
+&lt;p&gt;Key Gatsby Concept 💡&lt;/p&gt;
+&lt;p&gt;Pages created in the src/pages directory use the name of the file as the route for the page.&lt;/p&gt;
+&lt;p&gt;For example, if you had a file called src/pages/garden-gnomes.js, you could access that page at localhost:8000/garden-gnomes.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+&lt;p&gt;I&apos;m sure I&apos;ll write a lot more interesting things in the future.&lt;/p&gt;
+&lt;p&gt;Oh, and here&apos;s a great quote from this Wikipedia on
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
+eggs in brine, or packing each egg in damp, salted charcoal. In Asian
+supermarkets, these eggs are sometimes sold covered in a thick layer of salted
+charcoal paste. The eggs may also be sold with the salted paste removed,
+wrapped in plastic, and vacuum packed. From the salt curing process, the
+salted duck eggs have a briny aroma, a gelatin-like egg white and a
+firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACERIy/9oACAEBAAEFAkqW7B5Zox9t8n//xAAXEQEAAwAAAAAAAAAAAAAAAAAAERJB/9oACAEDAQE/AdVl/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEC/9oACAECAQE/AYun/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAECESEiMTL/2gAIAQEABj8CvRjaHMkvIQo//8QAGxAAAwEBAAMAAAAAAAAAAAAAAREhAEGBobH/2gAIAQEAAT8hsTTH203YINmYDPHckkPzQiAnv//aAAwDAQACAAMAAAAQyC//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EBHDK6y//8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERIVH/2gAIAQIBAT8QWiS0j//EABwQAQEAAgMBAQAAAAAAAAAAAAERADEhYYFB4f/aAAgBAQABPxBOzi0NHmChLtHkL9EcWZeCVJ1kcRoVp3lEYcnjEk0ES7/Jn//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Chinese Salty Egg&quot;
+        title=&quot;&quot;
+        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
+        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
+/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
+/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
+/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
+/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
+/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;You can also write code blocks here!&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; saltyDuckEgg &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;chinese preserved food product&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;left&quot;&gt;Number&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Title&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;Year&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;1&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Philosopher’s Stone&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2001&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;2&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Chamber of Secrets&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2002&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;left&quot;&gt;3&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Harry Potter and the Prisoner of Azkaban&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;2004&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a paragraph.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is a paragraph.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Header 1
+========
+
+Header 2
+--------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;h3&gt;Header 3&lt;/h3&gt;
+&lt;h4&gt;Header 4&lt;/h4&gt;
+&lt;h5&gt;Header 5&lt;/h5&gt;
+&lt;h6&gt;Header 6&lt;/h6&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;h3&gt;Header 3&lt;/h3&gt;
+&lt;h4&gt;Header 4&lt;/h4&gt;
+&lt;h5&gt;Header 5&lt;/h5&gt;
+&lt;h6&gt;Header 6&lt;/h6&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1 #
+## Header 2 ##
+### Header 3 ###
+#### Header 4 ####
+##### Header 5 #####
+###### Header 6 ######&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;This is a header.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;This is the first list item.&lt;/li&gt;
+&lt;li&gt;This is the second list item.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here&apos;s some example code:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; ## This is a header.
+&gt; 1. This is the first list item.
+&gt; 2. This is the second list item.
+&gt;
+&gt; Here&apos;s some example code:
+&gt;
+&gt;     Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue
+
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Red
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Green
+&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Blue
+
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
+&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;Buy flour and salt&lt;/li&gt;
+&lt;li&gt;Mix together with water&lt;/li&gt;
+&lt;li&gt;Bake&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Buy flour and salt
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Mix together with water
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Bake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
+&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Paragraph:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;!-- --&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Paragraph:
+
+    Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
+&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is [an example](http://example.com &quot;Example&quot;) link.
+
+[This link](http://example.com) has no title attr.
+
+This is [an example] [id] reference-style link.
+
+[id]: http://example.com &quot;Optional Title&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;single underscores&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double asterisks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double underscores&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This paragraph has some &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; in it.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This paragraph has some `code` in it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;https://via.placeholder.com/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://via.placeholder.com/200x50 &quot;Image Title&quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>

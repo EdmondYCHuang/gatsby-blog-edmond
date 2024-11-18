@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_blog=self.webpackChunkgatsby_starter_blog||[]).push([[314],{1780:function(e,t,l){l.r(t);var a=l(7294),r=l(1883);t.default=()=>a.createElement("main",null,a.createElement("h1",null,"About Me"),a.createElement("p",null,"Hi there! I'm the proud creator of this site, which I built with Gatsby."),a.createElement(r.Link,{to:"/"},"go home li wong"))}}]);
+//# sourceMappingURL=component---src-pages-about-test-js-f7858e5c9bd58e338c0d.js.map
