@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 Nov 2024 07:54:26 GMT</lastBuildDate><item><title><![CDATA[How to Write a Blog Post?]]></title><description><![CDATA[Content is King "Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting." - Bill…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</guid><pubDate>Wed, 20 Nov 2024 22:12:03 GMT</pubDate><content:encoded>&lt;!-- ![image](content-is-king-bill-gates-1996.jpg) --&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 Nov 2024 08:08:26 GMT</lastBuildDate><item><title><![CDATA[To-do-list-of-a-monetizing-blog]]></title><description><![CDATA[我希望在網頁裡有一個表單, 這個表單是一個名單磁鐵, 使用者如果對名單磁鐵有興趣, 就會填入email和名字, 按下載後, 後端會寄一封email給使用者, email裡有連結可以到一個網頁, 網頁可以下載名單磁鐵, 請問有什麼解決方案 SEO/Open graph…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/To-do-list-of-a-monetizing-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/To-do-list-of-a-monetizing-blog/</guid><pubDate>Wed, 20 Nov 2024 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;我希望在網頁裡有一個表單, 這個表單是一個名單磁鐵, 使用者如果對名單磁鐵有興趣, 就會填入email和名字, 按下載後, 後端會寄一封email給使用者, email裡有連結可以到一個網頁, 網頁可以下載名單磁鐵, 請問有什麼解決方案&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SEO/Open graph&lt;/li&gt;
+&lt;li&gt;名單磁鐵頁面&lt;/li&gt;
+&lt;li&gt;名單磁鐵表單&lt;/li&gt;
+&lt;li&gt;文章推荐系統&lt;/li&gt;
+&lt;li&gt;留言版&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Writing-a-blog-post]]></title><description><![CDATA[Content is King "Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting." - Bill…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</guid><pubDate>Wed, 20 Nov 2024 22:12:03 GMT</pubDate><content:encoded>&lt;!-- ![image](content-is-king-bill-gates-1996.jpg) --&gt;
 &lt;h2&gt;Content is King&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&quot;Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting.&quot; - Bill Gates, 1996&lt;/p&gt;
@@ -135,11 +142,4 @@ Engage: Respond to comments and feedback from readers.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;This helps you understand what works and refine future posts.&lt;/p&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Writing a blog post may seem daunting at first, but with a clear process—planning, drafting, editing, and publishing—you can turn your ideas into impactful content. The most important step is to start! Over time, with practice, you’ll develop a workflow that works best for you. What’s the biggest challenge you face when writing a blog post? Let me know in the comments, and I’ll share my best tips!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[To Do List of a Monetizing Blog]]></title><description><![CDATA[我希望在網頁裡有一個表單, 這個表單是一個名單磁鐵, 使用者如果對名單磁鐵有興趣, 就會填入email和名字, 按下載後, 後端會寄一封email給使用者, email裡有連結可以到一個網頁, 網頁可以下載名單磁鐵, 請問有什麼解決方案 SEO/Open graph…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/To-do-list-of-a-monetizing-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/To-do-list-of-a-monetizing-blog/</guid><pubDate>Wed, 20 Nov 2024 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;我希望在網頁裡有一個表單, 這個表單是一個名單磁鐵, 使用者如果對名單磁鐵有興趣, 就會填入email和名字, 按下載後, 後端會寄一封email給使用者, email裡有連結可以到一個網頁, 網頁可以下載名單磁鐵, 請問有什麼解決方案&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;SEO/Open graph&lt;/li&gt;
-&lt;li&gt;名單磁鐵頁面&lt;/li&gt;
-&lt;li&gt;名單磁鐵表單&lt;/li&gt;
-&lt;li&gt;文章推荐系統&lt;/li&gt;
-&lt;li&gt;留言版&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;Writing a blog post may seem daunting at first, but with a clear process—planning, drafting, editing, and publishing—you can turn your ideas into impactful content. The most important step is to start! Over time, with practice, you’ll develop a workflow that works best for you. What’s the biggest challenge you face when writing a blog post? Let me know in the comments, and I’ll share my best tips!&lt;/p&gt;</content:encoded></item></channel></rss>
