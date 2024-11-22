@@ -1,145 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 Nov 2024 08:08:26 GMT</lastBuildDate><item><title><![CDATA[To-do-list-of-a-monetizing-blog]]></title><description><![CDATA[我希望在網頁裡有一個表單, 這個表單是一個名單磁鐵, 使用者如果對名單磁鐵有興趣, 就會填入email和名字, 按下載後, 後端會寄一封email給使用者, email裡有連結可以到一個網頁, 網頁可以下載名單磁鐵, 請問有什麼解決方案 SEO/Open graph…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/To-do-list-of-a-monetizing-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/To-do-list-of-a-monetizing-blog/</guid><pubDate>Wed, 20 Nov 2024 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;我希望在網頁裡有一個表單, 這個表單是一個名單磁鐵, 使用者如果對名單磁鐵有興趣, 就會填入email和名字, 按下載後, 後端會寄一封email給使用者, email裡有連結可以到一個網頁, 網頁可以下載名單磁鐵, 請問有什麼解決方案&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;SEO/Open graph&lt;/li&gt;
-&lt;li&gt;名單磁鐵頁面&lt;/li&gt;
-&lt;li&gt;名單磁鐵表單&lt;/li&gt;
-&lt;li&gt;文章推荐系統&lt;/li&gt;
-&lt;li&gt;留言版&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Writing-a-blog-post]]></title><description><![CDATA[Content is King "Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting." - Bill…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</guid><pubDate>Wed, 20 Nov 2024 22:12:03 GMT</pubDate><content:encoded>&lt;!-- ![image](content-is-king-bill-gates-1996.jpg) --&gt;
-&lt;h2&gt;Content is King&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 Nov 2024 08:13:07 GMT</lastBuildDate><item><title><![CDATA[Building a Fast, Modern Blog with Gatsby: A Step-by-Step Guide]]></title><description><![CDATA[Regardless of who you are, this book is written for you. And I don’t say
+that lightly. There are chapters in this book that cover…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/build-gatsby-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/build-gatsby-blog/</guid><pubDate>Sun, 10 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Regardless of who you are, this book is written for you. And I don’t say
+that lightly. There are chapters in this book that cover everything from
+hacking the interview process and crafting a killer resume, to creating a
+wildly successful blog and building your own personal brand, to being
+extremely productive and learning how to deal with burnout, and even
+investing in real estate and losing weight.&lt;/p&gt;
+&lt;p&gt;This book talk a lot about blogging and how it is important. Specially when you are a freelancer or consultant like me, you‘ll find that a successful blog can bring many clients your way instead of having to go find them by yourself.&lt;/p&gt;
+&lt;p&gt;Writing articles can also help you become a better developer and communicator because there is a huge work of researching, coding, learning, behind a blog post.&lt;/p&gt;
+&lt;p&gt;這不是一本教技能的書, 而是一本教思維的書&lt;/p&gt;
+&lt;p&gt;看過太多軟體工程師說要寫部落格, 是因為&lt;/p&gt;
+&lt;p&gt;為什麼要寫部落?
+為什麼不用某些平台來寫部落格?
+為什麼用gatsby來寫部落格?&lt;/p&gt;
+&lt;p&gt;因為經歷了「Blogger 網誌被刪除」事件，我計畫將出事的網站搬到自架站，可以避免網站寄人籬下時，需要應付平台的各種合理或不合理規範，不過有相當多問題要解決：&lt;/p&gt;
+&lt;p&gt;要搬到哪個平台比較適當？如何抉擇各種自架站平台？
+能否沿用 Blogger 網址結構(才能不影響 SEO)？
+如何克服主機(或是網站託管平台)的流量或其他限制？
+能否匯入 Blogger 文章(是否支援 Blogger 匯入格式)？
+能否從瀏覽器進入後台？有網路就能進入後台？
+能否自動備份網站，預防網站發生任何意外？&lt;/p&gt;
+&lt;p&gt;這裡面每個主題都相當龐大，且根據自身條件，每個人的解決方案都會不太一樣。為了克服所有困難，等待網站恢復的一個多月主要都在研究這些新的領域。最終我找到的替代方案是 Hexo，本篇會說明為何選擇 Hexo，以及從 Blogger 移轉到 Hexo 的大致流程。&lt;/p&gt;
+&lt;p&gt;用github托管
+先在repository開專案, 用git desktop 下載下來, 把gatsby blog檔案拖過去&lt;/p&gt;
+&lt;hr&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&quot;Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting.&quot; - Bill Gates, 1996&lt;/p&gt;
+&lt;p&gt;使用 Gatsby 前置環境&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Good content isn’t just &quot;nice to have&quot;—it’s the foundation of a successful blog. When you prioritize quality, you’re not just creating posts; you’re ...&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;crafting experiences&lt;/li&gt;
-&lt;li&gt;building relationships, trust and credibility&lt;/li&gt;
-&lt;li&gt;establishing a digital asset&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Roadmap&lt;/h2&gt;
-&lt;p&gt;Writing a blog post can seem daunting at first, but with a clear structure and approach, you can create engaging and valuable content. Here’s a step-by-step guide to get started:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Identify Your Purpose and Audience&lt;/li&gt;
+&lt;li&gt;Node.js (v20.18.0 LTS)&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Gatsby cli (5.13.3)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Purpose: Why are you writing this blog? Is it to inform, entertain, persuade, or share an experience?
-Audience: Who are you writing for? Understand your readers’ needs, interests, and problems.&lt;/p&gt;
-&lt;p&gt;For example:
-If you’re writing a blog about tutorials of blogging, your audience might be developers looking to market themselves and connect to other people.&lt;/p&gt;
-&lt;div style=&quot;text-align: center;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/0abaa/your-audience.webp&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 175.31645569620252%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACQBgCdASoUACMAPtFepE0oJSMiKrgMAQAaCWoAgdNKwHfrG5EFlgvJBfI4FS+pVDE9kVSn8Pdy9lN86EkAAP7p9CcLmRYZ7bjFHCxnOTfO20NbyqVC6IDYv+mix5Zjj3/17lTJa6JpemXin8aePU9NCmNxGbkQvgnyB1C+q8g8P0sYAqmSbMQW/pbLwhFfekLqWyDWxJAXNF+alGhHZ7pL6Qtzo7/A4d2/DAazo0kk8VjlaurA8JhjgAJCBAn3d19b8OuDzlSCw4G6K7c6N7MFDOAIkQKe5vRkOoEPn0wAAA==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Identify Your Audience&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/8aab1/your-audience.webp&quot; srcset=&quot;/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/81b7c/your-audience.webp 158w,
-/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/6ea66/your-audience.webp 315w,
-/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/8aab1/your-audience.webp 630w,
-/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/a70f5/your-audience.webp 945w,
-/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/4ef06/your-audience.webp 1260w,
-/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/0abaa/your-audience.webp 1536w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;/div&gt;
 &lt;hr&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;Choose a Topic&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Pick a specific topic that aligns with your blog’s purpose and appeals to your audience.
-Use tools like &lt;code class=&quot;language-text&quot;&gt;Google Trends&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;Answer the Public&lt;/code&gt;, or &lt;code class=&quot;language-text&quot;&gt;Ubersuggest&lt;/code&gt; to find trending or frequently asked questions.&lt;/p&gt;
-&lt;div style=&quot;text-align: center;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/2643c/google-trends.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 35.44303797468354%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABJ0AAASdAHeZh94AAABF0lEQVR42nWR3UrEMBSE+/73vsk+gyDeCopYBN2tuu3qbtOc/HecJG0VROi0ycmcL5O0EeOglYKzFtp4GOvgvYeIIIYAYObzv+aUNt/MeZNYL+IrZROqN9ciXzFWhZi28U+tfsks61mNdZGpAifAoevQtk/o3o74PDN1mGFthPMJPo/p/a1cX8dChliPRtigTQDX8HB3g9vrHbr3geoxCa/AJVxGhaEfCLdwjsdLAftecLX7QHdizcfizZwNaP1cQPePLZ5fDjiezsWU15V2uCiBFlfvmVClA157g8tUQdrG4q3AZZIB41R/Tt6gblYbZPGUZuPLEXPatb6q+eJOWRONirDzKExjmGYF/W3a4DkA04+KIRbfN1dAICWVDv8JAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;google trends&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/f058b/google-trends.png&quot; srcset=&quot;/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/c26ae/google-trends.png 158w,
-/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/6bdcf/google-trends.png 315w,
-/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/f058b/google-trends.png 630w,
-/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/40601/google-trends.png 945w,
-/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/78612/google-trends.png 1260w,
-/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/2643c/google-trends.png 1747w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/2858a/answer-the-public.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 34.177215189873415%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABJ0AAASdAHeZh94AAABt0lEQVR42iWQW28SQRSA97GJMTYF5bLL7JVllwUqwdoURQqmUEpvVBNjarnUB63xrzQxkX9gxRS68qZ/juRzOk7y5cyck3znnNH6tac0K2WKjk8mLUgkdcWTlCCr2xg5V8WcyJM1HHSJbfm4uslzx2Tv5SEn4ylntS3eRSbalimomBa+cEhnLB6nTVIKod6ZrK3k97ms7ih0w8U2bCJhsu25tMIinYJLL3DQ/IxOvVrjuHdEp9mmWW/Q6Ryw1+nTbu+z2+oqcSJpKLkuhUJ4RMVNSp5PycjxzMxRdyxeuBaaSOmUwgqNnQbdvCUR7Epp6/UBxajKhlxfkciSlDGjprQJpDAMyjhy9TBnqi03Jdra2iM5gcAvRAgvwJOE8j/dfJG8XySKyrJhiUJYJajs4LgFlQ/CMq4X4vsRhm6x/mCdxMMNtO7+MacnA+azGfFiQXw7Z7m4Y3kXq/h3GfNnueT37IbFzx8s45j5rxkLWbv9eMRNN6Rf36Z39Jb+4Ska8ky/Tzl/f86Xq698/nTFeHTJaDhhNJowHP5ndDFk+OFC1uR9OJa1SyZvBgxe1fl2fX2vYbVa8Q9xSvaZhwTWgwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;answer the public&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/f058b/answer-the-public.png&quot; srcset=&quot;/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/c26ae/answer-the-public.png 158w,
-/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/6bdcf/answer-the-public.png 315w,
-/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/f058b/answer-the-public.png 630w,
-/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/40601/answer-the-public.png 945w,
-/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/78612/answer-the-public.png 1260w,
-/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/2858a/answer-the-public.png 1877w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Example:
-Instead of &lt;strong&gt;&quot;How to Use Gatsby,&quot;&lt;/strong&gt; narrow it down to &lt;strong&gt;&quot;Step-by-Step Guide to Deploy a Gatsby Blog on GitHub Pages.”&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;3&quot;&gt;
-&lt;li&gt;Create an Outline&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Organize your thoughts into a logical structure:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Briefly introduce the topic and explain &lt;code class=&quot;language-text&quot;&gt;why it matters&lt;/code&gt;.
-&lt;strong&gt;Main Content&lt;/strong&gt;: Break down the topic into smaller sections. Use headings (H2, H3) for clarity.
-&lt;strong&gt;Conclusion&lt;/strong&gt;: Summarize the key points and include a &lt;code class=&quot;language-text&quot;&gt;call-to-action (CTA)&lt;/code&gt; (e.g., ask readers to comment, share, or try something).&lt;/p&gt;
-&lt;p&gt;Example Outline for Gatsby Blog:&lt;/p&gt;
-&lt;p&gt;Introduction: Why deploy on GitHub Pages? Benefits and quick overview.
-Step 1: Set Up Your Gatsby Project
-Step 2: Configure gatsby-config.js for GitHub Pages
-Step 3: Deploy Your Blog
-Conclusion: Recap and encourage readers to share their experience&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;4&quot;&gt;
-&lt;li&gt;Write a Captivating Title&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;A good title grabs attention and summarizes the post&apos;s value.&lt;/p&gt;
-&lt;p&gt;Make it specific: “How to Build a Personal Blog with Gatsby in 10 Minutes”
-Use numbers or actionable words: “5 Simple Steps to Optimize Your Gatsby Blog”&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;5&quot;&gt;
-&lt;li&gt;Write the Blog Post&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Introduction: Hook readers with an interesting fact, question, or story. Explain what they’ll gain by reading.&lt;/p&gt;
-&lt;p&gt;Example: &quot;Ever wondered how to get your blog online for free? In this guide, I’ll show you how to deploy your blog on GitHub Pages in just three simple steps.&quot;&lt;/p&gt;
-&lt;p&gt;Main Content: Break up text with headings and subheadings. Use bullet points, images, and examples for clarity. Write in short paragraphs to make it easy to read.&lt;/p&gt;
-&lt;p&gt;Conclusion:
-Summarize the main points. Include a Call-to-Action (CTA).&lt;/p&gt;
-&lt;p&gt;Example: &quot;Now that your Gatsby blog is live on GitHub Pages, what’s your next step? Share your blog link in the comments, or check out my guide on adding SEO to Gatsby!&quot;&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;6&quot;&gt;
-&lt;li&gt;Add Visuals and Media&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Enhance your blog post with:&lt;/p&gt;
-&lt;p&gt;Images: Screenshots, diagrams, or illustrations.
-Videos: Embedded tutorials or demonstrations.
-Code Snippets: For technical posts, use syntax highlighting tools like &lt;code class=&quot;language-text&quot;&gt;Markdown&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;Prism.js&lt;/code&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;7&quot;&gt;
-&lt;li&gt;Optimize for SEO&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: Incorporate relevant keywords naturally into your title, headings, and content.
-&lt;strong&gt;Meta Description&lt;/strong&gt;: Write a brief summary (150-160 characters) for search engines.
-&lt;strong&gt;Internal Links&lt;/strong&gt;: Link to other related posts on your blog.
-&lt;strong&gt;Alt Text&lt;/strong&gt;: Add descriptive text to your images for accessibility and SEO.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;8&quot;&gt;
-&lt;li&gt;Edit and Proofread&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Before publishing: Review your post to catch awkward phrasing or errors.
-Use tools like &lt;code class=&quot;language-text&quot;&gt;Grammarly&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;Hemingway&lt;/code&gt; Editor to polish your writing.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;9&quot;&gt;
-&lt;li&gt;Publish and Promote&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Publish: Post your blog on your platform.
-Promote: Share on &lt;strong&gt;social media&lt;/strong&gt;, &lt;strong&gt;email newsletters&lt;/strong&gt;, and &lt;strong&gt;online communities&lt;/strong&gt;.
-Engage: Respond to comments and feedback from readers.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;10&quot;&gt;
-&lt;li&gt;Track Performance&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Use tools like &lt;code class=&quot;language-text&quot;&gt;Google Analytics&lt;/code&gt; to monitor:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Page views&lt;/li&gt;
-&lt;li&gt;Time spent on the page&lt;/li&gt;
-&lt;li&gt;User engagement (comments, shares)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;This helps you understand what works and refine future posts.&lt;/p&gt;
-&lt;h2&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Writing a blog post may seem daunting at first, but with a clear process—planning, drafting, editing, and publishing—you can turn your ideas into impactful content. The most important step is to start! Over time, with practice, you’ll develop a workflow that works best for you. What’s the biggest challenge you face when writing a blog post? Let me know in the comments, and I’ll share my best tips!&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;blockquote&gt;
+&lt;p&gt;安裝 gatsby-cli&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;shell&quot;&gt;&lt;pre class=&quot;language-shell&quot;&gt;&lt;code class=&quot;language-shell&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-g&lt;/span&gt; gatsby-cli&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;shell&quot;&gt;&lt;pre class=&quot;language-shell&quot;&gt;&lt;code class=&quot;language-shell&quot;&gt;gatsby new hello-world https://github.com/gatsbyjs/gatsby-starter-hello-world&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;shell&quot;&gt;&lt;pre class=&quot;language-shell&quot;&gt;&lt;code class=&quot;language-shell&quot;&gt;gatsby new &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;SITE_DIRECTORY_NAME&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;URL_OF_STARTER_GITHUB_REPO&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; hello-world
+gatsby develop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
