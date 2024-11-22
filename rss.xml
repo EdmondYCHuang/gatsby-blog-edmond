@@ -1,9 +1,221 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 18 Nov 2024 10:49:15 GMT</lastBuildDate><item><title><![CDATA[open-graph-and-SEO]]></title><description><![CDATA[could you give a short description of this post for SEO and open graph
-ChatGPT
-Certainly! Here’s a short SEO-friendly description and Open…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/open-graph-and-SEO/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/open-graph-and-SEO/</guid><pubDate>Tue, 12 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;could you give a short description of this post for SEO and open graph
-ChatGPT
-Certainly! Here’s a short SEO-friendly description and Open Graph (OG) snippet for your post:&lt;/p&gt;
-&lt;p&gt;SEO Description: &quot;Learn how to create a fast, modern, and scalable blog using Gatsby, a popular static site generator. This guide covers everything from setup to deployment, with tips on using GraphQL and React to build a blog that’s optimized for performance and SEO.&quot;&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 22 Nov 2024 02:01:32 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[Mini Course（迷你課程）和 Recorded Webinar（錄製的網路研討會）是兩種常見的線上教育和行銷形式，雖然它們有一些相似之處，但在內容目標、格式和用途上有明顯差異。 定義與內容差異 Mini Course…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/The difference of mini-course and webinar/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/The difference of mini-course and webinar/</guid><content:encoded>&lt;p&gt;Mini Course（迷你課程）和 Recorded Webinar（錄製的網路研討會）是兩種常見的線上教育和行銷形式，雖然它們有一些相似之處，但在內容目標、格式和用途上有明顯差異。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;定義與內容差異&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Mini Course（迷你課程）：&lt;/p&gt;
+&lt;p&gt;定義：
+迷你課程是一套簡化的課程，通常是專注於特定主題或技能的小型教學內容，旨在快速教會學員一項知識或技能。
+內容特點：
+結構化，分為多個模組或章節。
+注重教學內容的系統性和實用性。
+提供更多實踐機會，如作業或練習。
+節奏自由，學員可以自行選擇學習時間。
+Recorded Webinar（錄製的網路研討會）：&lt;/p&gt;
+&lt;p&gt;定義：
+錄製的網路研討會是實時網路研討會的錄像版，通常以講座或演示的形式進行，後續提供錄影給無法參加的觀眾。
+內容特點：
+形式偏向一次性的線上演講或講解。
+強調互動性（即便是錄製版本，也可能包含觀眾的提問和主持人的回答）。
+更多基於展示和信息傳遞，而非深入學習。
+節奏由主持人控制，可能較難跳過或自定步調。
+2. 使用目的與對象
+迷你課程的目的與對象：&lt;/p&gt;
+&lt;p&gt;目的：
+提供高價值的教育內容。
+幫助學員獲得具體技能或知識。
+作為完整課程的「入門版」或吸引潛在客戶的工具。
+對象：
+希望系統學習特定技能或主題的學生。
+需要結構化教學經驗的人。
+錄製網路研討會的目的與對象：&lt;/p&gt;
+&lt;p&gt;目的：
+分享知識、展示專業性，或介紹產品。
+用於行銷或推銷（例如，推銷課程或服務）。
+替代實時研討會，供無法參加的人觀看。
+對象：
+需要基礎信息的觀眾。
+想了解某個話題或產品但不需要深入學習的人。
+3. 格式與呈現方式
+特點	Mini Course	Recorded Webinar
+內容結構	結構化，分多模組，內容分段明確	非結構化，通常是一個完整的演講或對話
+學習方式	自主學習，按需求選擇時間	觀賞錄製視頻，依循固定的演講順序
+互動性	通常不具互動性，但可能包含課後練習或作業	可能包含 Q&amp;#x26;A 的錄影部分，模擬現場互動
+時間長度	通常為幾十分鐘到幾小時，依模組靈活安排	一般為 30 分鐘到 2 小時
+工具與平台	使用課程平台（如 Teachable、Thinkific、Udemy）	使用網路研討會工具（如 Zoom、WebinarJam）
+4. 優缺點比較
+迷你課程：&lt;/p&gt;
+&lt;p&gt;優點：
+有系統性，學員可以逐步掌握技能。
+更適合有意長期投入學習的對象。
+可以成為教學者的持久收入來源。
+缺點：
+需要更多時間準備和設計課程。
+不適合只尋求簡單介紹的觀眾。
+錄製網路研討會：&lt;/p&gt;
+&lt;p&gt;優點：
+快速設置，可重複使用。
+對不熟悉主題的觀眾來說是一種低門檻的入門形式。
+短期效果顯著，適合推銷產品或理念。
+缺點：
+缺乏深入學習的結構。
+時間限制可能導致內容不夠全面。
+5. 哪種形式適合你？
+選擇迷你課程：&lt;/p&gt;
+&lt;p&gt;如果你想要提供一個結構化的學習體驗。
+如果你的目的是長期吸引忠實受眾。
+如果你有豐富的教學內容並希望打造系統性的產品。
+選擇錄製網路研討會：&lt;/p&gt;
+&lt;p&gt;如果你希望快速分享一個主題或觀點。
+如果你的目的是推廣某個產品或建立專業形象。
+如果你想吸引更多潛在客戶，而不是深入教學。
+總結：&lt;/p&gt;
+&lt;p&gt;迷你課程 是一種結構化、系統化的學習體驗，適合長期的教育需求。
+錄製的網路研討會 則更靈活且短期，主要用於推廣和知識分享。
+根據你的目標和受眾需求，選擇最適合的形式！&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Building a Fast, Modern Blog with Gatsby: A Step-by-Step Guide]]></title><description><![CDATA[do you want to know the best way to start generating leads and finding an audience that are interested in working with you and buying your…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/email-list-lead-magnet/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/email-list-lead-magnet/</guid><pubDate>Thu, 21 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;do you want to know the best way to start generating leads and finding an audience that are interested in working with you and buying your products and services well the first step is a lead magnet so that you could build an email list in this video i&apos;m going to show you the types of lead magnets that you can leverage in your business from the very simple to the more complex so that you can start building an audience of ready customers and leads [Music] hey there freedom fighters mike killen here from sell your service starting an online service business or being a freelancer is hard work and the first thing you&apos;re going to want to start to look for is of course new leads for your business but the only way to do business is to provide value and one of the ways that we can do that is by giving value up front by use of a lead magnet [Music] essentially what we&apos;re doing is we&apos;re giving something away for free that not only shows the customer that you know what you&apos;re talking about but also demonstrates their interest and qualifies them as a potential prospect you&apos;ve probably seen them before like ebooks pdf reports but the key is that it has to be something useful there are loads of different types of lead magnets i&apos;m going to share with you some of mine i&apos;m going to talk about the pros and cons and how to start using them quickly and effectively in your business and would you believe me if i told you that i&apos;ve got over 10 000 leads from one lead magnet and a very very boring landing page i&apos;ll get into that a little bit later in the meantime let&apos;s get on with the video [Music] well the most obvious reason is that you can start generating an email list of leads who you can market your services to later it&apos;s also one of the starting points for all business interactions and it&apos;s a really good way to start working with customers in the first place and finally one of the reasons i love lead magnets is that you can literally measure which ones are popular and which ones aren&apos;t and start to tailor your paid services based around the messaging that you give in your lead magnet [Music] i&apos;ll let you into a little secret the lead magnet doesn&apos;t matter as much as the messaging that you put around it everyone likes to talk about whether it&apos;s an e-book or whether it should be a course loads of people like to give away tons and tons of value and tons of information but the secret is actually if you give away something that you&apos;re already using with your customers and you make sure that you follow up with them that&apos;s more useful my advice would be don&apos;t overthink any of these i&apos;m just going to show you what i&apos;ve done i&apos;ll tell you what&apos;s worked and what hasn&apos;t worked i&apos;ll tell you whether the effort to input was worth it in my opinion and i&apos;ll share with you how you can get going quickly [Music] one it solves a problem two it&apos;s actionable extremely quickly and three it&apos;s really specific to the audience and the problem that you&apos;re solving so what do i mean by that well a lot of times businesses will create lead magnets that go into way too much depth and they&apos;ll basically create a lead magnet that says like how to run an entire profitable business and they think that by giving away everything and by being really broad that that&apos;s really useful when in fact the more specific and tight the operating parameters are for the lead magnet the better it is likely to perform for example would you rather download a lead magnet that says something like how to get abs within six weeks ready for your summer break without having to change any of your diet or would you rather have something that says how to have a great body specificity is what works with lead magnets and that&apos;s what i mean when i say the lead magnet itself doesn&apos;t matter so much as the messaging around it [Music] so my philosophy around lead magnets are first of all quick wins i want to be able to make sure that someone who downloads a lead magnet from me is able to get results within 15 minutes maybe even 15 seconds it used to be back in the day that we would give away ebooks with 30 to 40 pages and while those can be useful the reality is that 90 to 95 percent of people who download a lead magnet won&apos;t even ever look at it this is also why i like to use lead magnets that i&apos;m already using with my current customers so if you have a worksheet or a process that you&apos;re using with your current customers that&apos;s usually the best thing to actually give away to your leads you don&apos;t have to tell them how to use it or give them full coaching around it if you give away a worksheet it&apos;s okay for you to charge for implementation [Music] lead magnets are a bit like acorns when you plant an acorn it might take years to even grow into anything resembling a tree but eventually it grows into something much much stronger that&apos;s the relationship that you&apos;re trying to build with the customer by planting the tiny acorn at the start which is really easy to do rather than trying to plant an entire tree in their business and the final thing i want to say before we get into this is make sure you don&apos;t overthink this you&apos;re better off offering a pretty basic and even dull lead magnet but with really good messaging and changing it later rather than spending all your time and energy creating the perfect lead magnet lead magnets are a way of testing an offer and seeing whether they work and whether the messaging connects with people what&apos;s the point in spending weeks creating an amazing free mini 10 day course only to find out that no one&apos;s interested in it instead if you make sure you focus your efforts around the messaging and making sure that your problem solving and audience are really specific and tight that&apos;s more likely to gain results having said that i do want to share with you the lead magnets that we&apos;ve used sell your service as well as which ones have worked which ones haven&apos;t works and which ones i would use again and i&apos;ll also take you through the one that&apos;s done over 10 000 leads for us and looks garbage one of the easiest lead magnets you can create is an avatar worksheet now if you&apos;re working with businesses who have customers this is basically something that they can fill in so if we go into my google docs first of all you&apos;ll see how basic our lead magnets are they are literally google docs that we&apos;ve created and you&apos;ll even see at the top here this is from a coaching call that i did number 35 we&apos;re currently on number like 250 or something and this one still does really well all i&apos;ve done is list out different aspects of a customer avatar and i give this away to my customers i say if you want to find more customers you need a customer avatar what i like so much about this particular lead magnet is a it takes minutes to set up you can even rip this one off if you want and it&apos;s a really easy way to get people to fill in information about their customers this is one of those worksheets that people think i&apos;m going to start making progress on this really quickly the only downside with this particular lead magnet is that everyone offers some kind of avatar worksheet and the reality is customers don&apos;t really want to do this much work this is very easy to set up it&apos;s relatively simple to pitch but it&apos;s probably not the most valuable or useful lead magnet you could create for your market [Music] the second type of lead magnet you can create is a resource list now resource lists take minutes to set up that&apos;s why they&apos;re so powerful and what i&apos;m going to show you here we actually ended up turning it into a blog post there&apos;s 101 different ways that you could use this for example we&apos;ve just got six killer plugins for growing your email list you can see this was published back in 2016 and this still generates traffic now the funny thing is i don&apos;t even agree with some of these resources anymore but it does still generate leads what we used to do is just put this in a google doc basically have the exact same write-up and we would have a link through to that particular resource here&apos;s a little pro tip as well if you set yourself up with an affiliate account for each one of these resources you can start generating yourself some revenue on the side every time someone downloads a lead magnet people love lists it makes their life easier and there&apos;s loads of ways you can cut it up if you&apos;re an agency and you work with coaches for example you could say these are the top 10 books on marketing your coaching business or these are the top 10 podcasts that you should be listening to resource lists take seconds to set up and they&apos;re really really good to give away the only downside with them is they don&apos;t really show much intention they&apos;ll show that someone might be a particular audience or they might have a particular problem but it&apos;s not solving a specific problem that they have in mind [Music] resource number three is a checklist checklists in my opinion are a vastly underutilized lead magnet the reason i love them is that you probably already have checklists in your business that you use with your current customers for example on this one again you can see it&apos;s just a simple google doc this is part of a course that we had on building sales funnels with beaver builder and this is a squeeze page checklist so i have a checklist here and then underneath i have a little explanation about each bullet point now the reality is you don&apos;t even need to have that you could just have the checklist like this another way that we use checklists is we give them to people who join our program seven-figure freedom but we also have that checklist as an audit before someone buys so we ask them do you have your five million dollar drill segments in place are you able to take four weeks off a year without having to like check anything out do your team solve problems without you etc etc every time someone says no i can&apos;t do that no i can&apos;t do that no i can&apos;t do that that gives us more incentive to sell to them so a checklist not only helps the customer identify what&apos;s missing but it also helps you identify what&apos;s missing in their business the fourth kind of lead magnet is a quick start guide now again i like to try and give my leads something within 15 seconds to 15 minutes i want a really quick result for them to implement one of the biggest challenges that funnel agencies have and i&apos;m sure you&apos;ll agree with this is choosing a niche so we created a 200 niche list and report this is a quick start guide to basically getting a niche up and running without having to think about it too much for example if you&apos;re a marketing agency and you want to create a quick start for your customers it could be something as simple as how to send your first set of emails or how to start capturing email addresses with a squeeze page quick start guides need to be just that though the only danger with a quick start guide is they tend to get bogged down and people tend to do everything now there&apos;s nothing wrong with giving away the farm but what i would implore you to do is give away only the things that are going to get them a result within 15 seconds to 15 minutes i know that might sound insane but remember you&apos;re going to offer implementation and help later on in the process [Music] lead magnet number five is my favorite type of lead magnet it&apos;s called a cheat sheet now the reason i like cheat sheets is because that&apos;s how i passed the majority of my exams back when i was at school but it&apos;s also a really easy way to demonstrate that you know what you&apos;re talking about so much that you can break down quite complex and confusing ideas into really simple practices and just have someone go through it a cheat sheet is just that it&apos;s a cheat it&apos;s literally an unfair advantage within the marketplace for example we&apos;ve got a funnel builders tool pricing cheat sheet here on the left hand side i list out everything that someone needs within a marketing funnel in order to sell it and then along the top i say to them well here&apos;s what it&apos;s called here&apos;s what you&apos;re going to need to charge here&apos;s what&apos;s going to cost you and what&apos;s the benefit to the customer you can see that it&apos;s literally only one page it&apos;s a table there&apos;s tons of ways of creating cheat sheets what you want to look for are the really quick wins or low hanging fruit within your marketplace that you&apos;re able to guide people on really quickly again this is also something we actually give to our new customers so anyone who joins seven figure freedom we have a cheat sheet that allows them to generate 10 to 25 to 50 000 worth of income within minutes of joining the program it&apos;s 100 true we&apos;ve seen it happen time and time again it&apos;s kind of like a magic trick where we show them here&apos;s some low hanging fruit that you could go after the only problem with cheat sheets is that they require quite a lot of iteration and ideas in order to bring to fruition again that&apos;s why you want to be using something that you&apos;re already currently using with your current customers [Music] lead magnet idea number six is templates now these are probably the easiest ones to build because you probably have templates already in this particular example i have an ultimate blog post template but we have templates for squeeze pages we have templates for sales pages you saw earlier that we have a squeeze page template and checklist all i&apos;ll do with the template is list out the order or the structure of things now this is a really easy thing to put into a pdf maybe creating canvas and show things where they&apos;re going to go a template is essentially something that someone can hold up fill in the blanks and they&apos;ll get results everything from social media posts to youtube thumbnails to youtube scripts users templates and they&apos;re extremely extremely popular don&apos;t be surprised if something like a template ends up becoming your best lead magnet if you&apos;re an agency owner or a service provider you obviously want to build an audience of people who are eager to buy what you&apos;re selling but how do you go about attracting the right kinds of customers to your business and that&apos;s exactly what we do here at sell your service we help marketing agency owners increase revenues close high ticket clients and if you&apos;re a freelancer just starting out we can help with that as well by subscribing to the sell your service channel here you&apos;re going to get access to years of experience not just from me but from other funnel builders and agency owners as well we will guide you through every step of the process from identifying your perfect customers to creating killer products all the way through to selling and closing so if you&apos;re ready to start attracting the right type of customers to your business make sure you hit subscribe today anyway let&apos;s get back to the video so this next group of lead magnets are based around training training can be extremely valuable as a lead magnet and it&apos;s a really good way to get people onto your side however don&apos;t get bogged down in creating tons and tons and tons of free training rather than actually trying to sell and close people who are currently already interested in working with you the key to creating awesome training lead magnets is again to repurpose the stuff that you&apos;re already using with your current clients if one of your customers has a question about email marketing or social media jump on a call with them hit record and use that as a lead magnet later on [Music] so lead magnet idea number seven is a video faq which stands for frequently asked questions an faq video is really powerful because you can basically answer people&apos;s top and most burning questions for example if you&apos;re an agency you could say i&apos;m going to answer every single question you ever had about generating sales from your email list now there&apos;s a ton of ways to market this but basically sitting down and thinking of 10 to 20 frequently asked questions answering them recording the video and then throwing it over to a landing page creates a very fast and effective lead magnet but remember my point from before it&apos;s not the lead magnet that matters contrary to belief everyone thinks it&apos;s the lead magnet and the quality of the lead magnet that matters it&apos;s not it&apos;s your messaging and specificity around offering that lead magnet that actually matters one of my favorite ways to offer lead magnets is to my facebook following or to my facebook group and i&apos;ll say something like i&apos;ve just answered every single question you ever had about charging 25 000 for a marketing funnel as you can see here this video is how to guarantee 25 000 roi and if someone says oh i&apos;d be interested in watching that training or video about generating 25 000 clients i&apos;ll send them this link i&apos;ll ask for their email address later on in fact i&apos;m going to show you how i&apos;ve compiled all of this into the next lead magnet but this is a super easy way to start showing people that you know what you&apos;re talking about [Music] lead magnet idea number eight is the mini course now i want you to very carefully consider whether you should do a mini course because i&apos;ll be honest this is the highest effort ratio and it&apos;s actually one of the least powerful lead magnets we&apos;ve ever done the reason that mini courses seem to work great is because you think oh my god i&apos;m giving so much value away imagine how powerful people will think this program is if you think that regular lead magnets when 95 of them aren&apos;t even opened a mini course has even fewer people go through it the cold hard reality is that hardly anyone is going to do anything with the lead magnet content that you provide them this is a really unknown hidden industry secret and i wish more people will talk about it frankly that the more effort you put into your lead magnet by definition your return on investment is going to go down if you have the resources to be able to put a mini course together then by all means go for it but do not under any circumstances create a brand new mini course from scratch as a lead magnet and i&apos;m going to prove that to you later on this here is a full course a three or four part course i can&apos;t remember on how to sell 25 000 marketing funnels now what i ended up doing is i put the faq video i think as number two and video number one just shows people how to do things what&apos;s also interesting is you actually get video number one for free and it&apos;s only by signing up do you get access to videos two three and four like i said it&apos;s very sophisticated and it looks cool and clever but the reality is the amount of effort that i put into this the amount of revenue and leads we generated from it the ratio is just off many courses work really well when they work really well but the reality is most of them don&apos;t do well if someone gets through the end of your mini course that usually means they&apos;re extremely eager to buy and they have a really high intent to buy however that will be a very small percentage of people who even sign up to it so my advice would be create a mini course at some point in the future using materials you&apos;ve already got with your current customers and use it as a qualification process rather than a massive lead generator [Music] lead magnet idea number nine is live training now i go live in my facebook group every single thursday and the reason i like doing that is because i can take all of the stuff i&apos;ve learned from that week and put it into a video now there&apos;s a few ways that you can go about doing this for example i&apos;ll show you on the next lead magnet how you can do things like the live webinar where people join zoom and that kind of stuff but going live in a facebook group works really really well for a few reasons now most people are going to suggest that you do a webinar to your audience and yes that can work however by going live in a facebook group you can actually generate leads at several points in the process first of all you can say to your audience or wider email list hey i&apos;m going live in my facebook group why don&apos;t you jump in and join and when they join make sure that they give you their email address then on the call itself you can also say hey i&apos;m giving away this worksheet or if you&apos;d like to jump on a 10 minute call head over to the link below and you can go ahead and you know generate leads that way and the third and final thing is once you have gone live you can use the replay as another lead magnet later on what i really like to do is take the training that i&apos;ve done on the thursday and then send it to my email list on the sunday saying hey why don&apos;t you join this live training it&apos;s the recording that we&apos;ve got it talks about how to sell 25 000 marketing funnels and it took me no more time [Music] and this brings me on to number 10 the recorded webinar so webinars have made me tens of thousands of leads and hundreds of thousands of dollars everyone says the recorded webinar is dead personally i think that&apos;s and i think it&apos;s really easy to say that this page in particular you can see how basic and boring and dull it is has done literally thousands of leads and hundreds of sales revolt resulting in hundreds of thousands of dollars of revenue the trick however is this is a recording of a coaching call i did with my customers if you&apos;re an agency and you&apos;ve got three or four customers my advice would be get them on a call solve a really specific problem make sure they walk away with some actionable results record it and use that as the webinar there are ways to use webinars to sell products later on and stuff but the reality is the lead magnet doesn&apos;t matter it&apos;s the messaging that you put beforehand and the follow-up that you have afterwards you could also take one of your live training calls throw that on a landing page and use that as a lead magnet later on for your other audience overall webinars aren&apos;t going anywhere i really like them the only problem is that you have to create a lot around them my advice would be to take a current cheat sheet or some kind of worksheet that you&apos;ve got with your customers and just ask them would you like access to this one of my favorite things to say is i&apos;ve just released this brand new email marketing template that&apos;s generated us hundreds of sales and hundreds of thousands of dollars worth of revenue who wants a copy and if people respond to me or say yes i&apos;d like access to that then we&apos;ll have a conversation capture their email address and i&apos;ll send it to them later on we have opt-in pages we have squeeze pages we have ways to capture this on automation but don&apos;t over complicate it the problem people have is they take ages setting up the systems but they never do any marketing with it so now that you&apos;ve got the philosophy the categories the different types of lead magnets and my personal input on which ones you should go after and which ones have worked for us i&apos;d love to know in the comments down below which ones you&apos;ve already got already or which ones you&apos;re going to create this also means you can start to attract the right types of leads you can start to qualify them and you can build an email list in order to market to later lead magnets are one of the first things you need to create in order to start generating leads and building an audience now of course you&apos;ll want to convert those leads into paying customers and that&apos;s why you should go back and watch my previous video on the difference between marketing and sales this is so you can understand the real world differences and the tension between what marketing activities are what sales activities are and making sure you&apos;re putting the right amount of efforts into both in the meantime thank you so much for watching i&apos;ll see you on another video thanks for hanging out have courage to commit and take action&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to Write a Blog Post?]]></title><description><![CDATA[Content is King "Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting." - Bill…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</guid><pubDate>Wed, 20 Nov 2024 22:12:03 GMT</pubDate><content:encoded>&lt;!-- ![image](content-is-king-bill-gates-1996.jpg) --&gt;
+&lt;h2&gt;Content is King&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&quot;Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting.&quot; - Bill Gates, 1996&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Good content isn’t just &quot;nice to have&quot;—it’s the foundation of a successful blog. When you prioritize quality, you’re not just creating posts; you’re ...&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;crafting experiences&lt;/li&gt;
+&lt;li&gt;building relationships, trust and credibility&lt;/li&gt;
+&lt;li&gt;establishing a digital asset&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Roadmap&lt;/h2&gt;
+&lt;p&gt;Writing a blog post can seem daunting at first, but with a clear structure and approach, you can create engaging and valuable content. Here’s a step-by-step guide to get started:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Identify Your Purpose and Audience&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Purpose: Why are you writing this blog? Is it to inform, entertain, persuade, or share an experience?
+Audience: Who are you writing for? Understand your readers’ needs, interests, and problems.&lt;/p&gt;
+&lt;p&gt;For example:
+If you’re writing a blog about tutorials of blogging, your audience might be developers looking to market themselves and connect to other people.&lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/0abaa/your-audience.webp&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 175.31645569620252%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/webp;base64,UklGRuwAAABXRUJQVlA4IOAAAACQBgCdASoUACMAPtFepE0oJSMiKrgMAQAaCWoAgdNKwHfrG5EFlgvJBfI4FS+pVDE9kVSn8Pdy9lN86EkAAP7p9CcLmRYZ7bjFHCxnOTfO20NbyqVC6IDYv+mix5Zjj3/17lTJa6JpemXin8aePU9NCmNxGbkQvgnyB1C+q8g8P0sYAqmSbMQW/pbLwhFfekLqWyDWxJAXNF+alGhHZ7pL6Qtzo7/A4d2/DAazo0kk8VjlaurA8JhjgAJCBAn3d19b8OuDzlSCw4G6K7c6N7MFDOAIkQKe5vRkOoEPn0wAAA==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Identify Your Audience&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/8aab1/your-audience.webp&quot; srcset=&quot;/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/81b7c/your-audience.webp 158w,
+/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/6ea66/your-audience.webp 315w,
+/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/8aab1/your-audience.webp 630w,
+/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/a70f5/your-audience.webp 945w,
+/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/4ef06/your-audience.webp 1260w,
+/gatsby-blog-edmond/static/5ea70099ab66bb39b57453fee2fdbf59/0abaa/your-audience.webp 1536w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;Choose a Topic&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Pick a specific topic that aligns with your blog’s purpose and appeals to your audience.
+Use tools like &lt;code class=&quot;language-text&quot;&gt;Google Trends&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;Answer the Public&lt;/code&gt;, or &lt;code class=&quot;language-text&quot;&gt;Ubersuggest&lt;/code&gt; to find trending or frequently asked questions.&lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/2643c/google-trends.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 35.44303797468354%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABJ0AAASdAHeZh94AAABF0lEQVR42nWR3UrEMBSE+/73vsk+gyDeCopYBN2tuu3qbtOc/HecJG0VROi0ycmcL5O0EeOglYKzFtp4GOvgvYeIIIYAYObzv+aUNt/MeZNYL+IrZROqN9ciXzFWhZi28U+tfsks61mNdZGpAifAoevQtk/o3o74PDN1mGFthPMJPo/p/a1cX8dChliPRtigTQDX8HB3g9vrHbr3geoxCa/AJVxGhaEfCLdwjsdLAftecLX7QHdizcfizZwNaP1cQPePLZ5fDjiezsWU15V2uCiBFlfvmVClA157g8tUQdrG4q3AZZIB41R/Tt6gblYbZPGUZuPLEXPatb6q+eJOWRONirDzKExjmGYF/W3a4DkA04+KIRbfN1dAICWVDv8JAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;google trends&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/f058b/google-trends.png&quot; srcset=&quot;/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/c26ae/google-trends.png 158w,
+/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/6bdcf/google-trends.png 315w,
+/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/f058b/google-trends.png 630w,
+/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/40601/google-trends.png 945w,
+/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/78612/google-trends.png 1260w,
+/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/2643c/google-trends.png 1747w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/2858a/answer-the-public.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 34.177215189873415%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABJ0AAASdAHeZh94AAABt0lEQVR42iWQW28SQRSA97GJMTYF5bLL7JVllwUqwdoURQqmUEpvVBNjarnUB63xrzQxkX9gxRS68qZ/juRzOk7y5cyck3znnNH6tac0K2WKjk8mLUgkdcWTlCCr2xg5V8WcyJM1HHSJbfm4uslzx2Tv5SEn4ylntS3eRSbalimomBa+cEhnLB6nTVIKod6ZrK3k97ms7ih0w8U2bCJhsu25tMIinYJLL3DQ/IxOvVrjuHdEp9mmWW/Q6Ryw1+nTbu+z2+oqcSJpKLkuhUJ4RMVNSp5PycjxzMxRdyxeuBaaSOmUwgqNnQbdvCUR7Epp6/UBxajKhlxfkciSlDGjprQJpDAMyjhy9TBnqi03Jdra2iM5gcAvRAgvwJOE8j/dfJG8XySKyrJhiUJYJajs4LgFlQ/CMq4X4vsRhm6x/mCdxMMNtO7+MacnA+azGfFiQXw7Z7m4Y3kXq/h3GfNnueT37IbFzx8s45j5rxkLWbv9eMRNN6Rf36Z39Jb+4Ska8ky/Tzl/f86Xq698/nTFeHTJaDhhNJowHP5ndDFk+OFC1uR9OJa1SyZvBgxe1fl2fX2vYbVa8Q9xSvaZhwTWgwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;answer the public&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/f058b/answer-the-public.png&quot; srcset=&quot;/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/c26ae/answer-the-public.png 158w,
+/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/6bdcf/answer-the-public.png 315w,
+/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/f058b/answer-the-public.png 630w,
+/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/40601/answer-the-public.png 945w,
+/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/78612/answer-the-public.png 1260w,
+/gatsby-blog-edmond/static/2ce12f243dfbe77e510c39b548cc6dc8/2858a/answer-the-public.png 1877w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Example:
+Instead of &lt;strong&gt;&quot;How to Use Gatsby,&quot;&lt;/strong&gt; narrow it down to &lt;strong&gt;&quot;Step-by-Step Guide to Deploy a Gatsby Blog on GitHub Pages.”&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Create an Outline&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Organize your thoughts into a logical structure:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Briefly introduce the topic and explain &lt;code class=&quot;language-text&quot;&gt;why it matters&lt;/code&gt;.
+&lt;strong&gt;Main Content&lt;/strong&gt;: Break down the topic into smaller sections. Use headings (H2, H3) for clarity.
+&lt;strong&gt;Conclusion&lt;/strong&gt;: Summarize the key points and include a &lt;code class=&quot;language-text&quot;&gt;call-to-action (CTA)&lt;/code&gt; (e.g., ask readers to comment, share, or try something).&lt;/p&gt;
+&lt;p&gt;Example Outline for Gatsby Blog:&lt;/p&gt;
+&lt;p&gt;Introduction: Why deploy on GitHub Pages? Benefits and quick overview.
+Step 1: Set Up Your Gatsby Project
+Step 2: Configure gatsby-config.js for GitHub Pages
+Step 3: Deploy Your Blog
+Conclusion: Recap and encourage readers to share their experience&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;Write a Captivating Title&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A good title grabs attention and summarizes the post&apos;s value.&lt;/p&gt;
+&lt;p&gt;Make it specific: “How to Build a Personal Blog with Gatsby in 10 Minutes”
+Use numbers or actionable words: “5 Simple Steps to Optimize Your Gatsby Blog”&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;Write the Blog Post&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Introduction: Hook readers with an interesting fact, question, or story. Explain what they’ll gain by reading.&lt;/p&gt;
+&lt;p&gt;Example: &quot;Ever wondered how to get your blog online for free? In this guide, I’ll show you how to deploy your blog on GitHub Pages in just three simple steps.&quot;&lt;/p&gt;
+&lt;p&gt;Main Content: Break up text with headings and subheadings. Use bullet points, images, and examples for clarity. Write in short paragraphs to make it easy to read.&lt;/p&gt;
+&lt;p&gt;Conclusion:
+Summarize the main points. Include a Call-to-Action (CTA).&lt;/p&gt;
+&lt;p&gt;Example: &quot;Now that your Gatsby blog is live on GitHub Pages, what’s your next step? Share your blog link in the comments, or check out my guide on adding SEO to Gatsby!&quot;&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;Add Visuals and Media&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Enhance your blog post with:&lt;/p&gt;
+&lt;p&gt;Images: Screenshots, diagrams, or illustrations.
+Videos: Embedded tutorials or demonstrations.
+Code Snippets: For technical posts, use syntax highlighting tools like &lt;code class=&quot;language-text&quot;&gt;Markdown&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;Prism.js&lt;/code&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&quot;7&quot;&gt;
+&lt;li&gt;Optimize for SEO&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: Incorporate relevant keywords naturally into your title, headings, and content.
+&lt;strong&gt;Meta Description&lt;/strong&gt;: Write a brief summary (150-160 characters) for search engines.
+&lt;strong&gt;Internal Links&lt;/strong&gt;: Link to other related posts on your blog.
+&lt;strong&gt;Alt Text&lt;/strong&gt;: Add descriptive text to your images for accessibility and SEO.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&quot;8&quot;&gt;
+&lt;li&gt;Edit and Proofread&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Before publishing: Review your post to catch awkward phrasing or errors.
+Use tools like &lt;code class=&quot;language-text&quot;&gt;Grammarly&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;Hemingway&lt;/code&gt; Editor to polish your writing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&quot;9&quot;&gt;
+&lt;li&gt;Publish and Promote&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Publish: Post your blog on your platform.
+Promote: Share on &lt;strong&gt;social media&lt;/strong&gt;, &lt;strong&gt;email newsletters&lt;/strong&gt;, and &lt;strong&gt;online communities&lt;/strong&gt;.
+Engage: Respond to comments and feedback from readers.&lt;/p&gt;
+&lt;hr&gt;
+&lt;ol start=&quot;10&quot;&gt;
+&lt;li&gt;Track Performance&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Use tools like &lt;code class=&quot;language-text&quot;&gt;Google Analytics&lt;/code&gt; to monitor:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Page views&lt;/li&gt;
+&lt;li&gt;Time spent on the page&lt;/li&gt;
+&lt;li&gt;User engagement (comments, shares)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This helps you understand what works and refine future posts.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Writing a blog post may seem daunting at first, but with a clear process—planning, drafting, editing, and publishing—you can turn your ideas into impactful content. The most important step is to start! Over time, with practice, you’ll develop a workflow that works best for you. What’s the biggest challenge you face when writing a blog post? Let me know in the comments, and I’ll share my best tips!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[To Do List of a Monetizing Blog]]></title><description><![CDATA[我希望在網頁裡有一個表單, 這個表單是一個名單磁鐵, 使用者如果對名單磁鐵有興趣, 就會填入email和名字, 按下載後, 後端會寄一封email給使用者, email裡有連結可以到一個網頁, 網頁可以下載名單磁鐵, 請問有什麼解決方案 SEO/Open graph…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/To-do-list-of-a-monetizing-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/To-do-list-of-a-monetizing-blog/</guid><pubDate>Wed, 20 Nov 2024 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;我希望在網頁裡有一個表單, 這個表單是一個名單磁鐵, 使用者如果對名單磁鐵有興趣, 就會填入email和名字, 按下載後, 後端會寄一封email給使用者, email裡有連結可以到一個網頁, 網頁可以下載名單磁鐵, 請問有什麼解決方案&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SEO/Open graph&lt;/li&gt;
+&lt;li&gt;名單磁鐵頁面&lt;/li&gt;
+&lt;li&gt;名單磁鐵表單&lt;/li&gt;
+&lt;li&gt;文章推荐系統&lt;/li&gt;
+&lt;li&gt;留言版&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[open-graph-and-SEO]]></title><description><![CDATA[SEO Description: "Learn how to create a fast, modern, and scalable blog using Gatsby, a popular static site generator. This guide covers…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/open-graph-and-SEO/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/open-graph-and-SEO/</guid><pubDate>Tue, 12 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;SEO Description: &quot;Learn how to create a fast, modern, and scalable blog using Gatsby, a popular static site generator. This guide covers everything from setup to deployment, with tips on using GraphQL and React to build a blog that’s optimized for performance and SEO.&quot;&lt;/p&gt;
 &lt;p&gt;Open Graph Description: &quot;Discover how to build your own blog with Gatsby! In this step-by-step guide, we explore how to use Gatsby’s static site generation, GraphQL, and React to create a high-performance blog. Perfect for beginners and developers looking to boost SEO and speed.&quot;&lt;/p&gt;
 &lt;p&gt;These descriptions are designed to appeal to both search engines and social media, helping drive engagement and clicks. Let me know if you&apos;d like to refine it further!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[use-chatGPT-to-design-web-layout]]></title><description><![CDATA[I want to create a 3-column layout with the interactive functionality. The left Column displays a static image. The middle column contains…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/use-chatGPT-to-design-web-layout/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/use-chatGPT-to-design-web-layout/</guid><pubDate>Tue, 12 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;I want to create a 3-column layout with the interactive functionality. The left Column displays a static image. The middle column contains six buttons arranged vertically, each with descriptive text. The right column shows a different image based on the button clicked.&lt;/p&gt;
@@ -238,222 +450,10 @@ investing in real estate and losing weight.&lt;/p&gt;
 gatsby develop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[reason-to-built-your-blog]]></title><description><![CDATA[customized your layout, but blog platform can only give you fixed layout Key Gatsby Concept 💡 Pages created in the src/pages directory use…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/reason-to-built-your-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/reason-to-built-your-blog/</guid><pubDate>Sun, 10 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;customized your layout, but blog platform can only give you fixed layout&lt;/p&gt;
 &lt;p&gt;Key Gatsby Concept 💡&lt;/p&gt;
 &lt;p&gt;Pages created in the src/pages directory use the name of the file as the route for the page.&lt;/p&gt;
-&lt;p&gt;For example, if you had a file called src/pages/garden-gnomes.js, you could access that page at localhost:8000/garden-gnomes.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I'm sure I'll write a lot more interesting things in the future. Oh, and here's a…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I&apos;m sure I&apos;ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here&apos;s a great quote from this Wikipedia on
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/gatsby-blog-edmond/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACERIy/9oACAEBAAEFAkqW7B5Zox9t8n//xAAXEQEAAwAAAAAAAAAAAAAAAAAAERJB/9oACAEDAQE/AdVl/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEC/9oACAECAQE/AYun/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAECESEiMTL/2gAIAQEABj8CvRjaHMkvIQo//8QAGxAAAwEBAAMAAAAAAAAAAAAAAREhAEGBobH/2gAIAQEAAT8hsTTH203YINmYDPHckkPzQiAnv//aAAwDAQACAAMAAAAQyC//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EBHDK6y//8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERIVH/2gAIAQIBAT8QWiS0j//EABwQAQEAAgMBAQAAAAAAAAAAAAERADEhYYFB4f/aAAgBAQABPxBOzi0NHmChLtHkL9EcWZeCVJ1kcRoVp3lEYcnjEk0ES7/Jn//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;&quot;
-        src=&quot;/gatsby-blog-edmond/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
-        srcset=&quot;/gatsby-blog-edmond/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
-/gatsby-blog-edmond/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
-/gatsby-blog-edmond/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
-/gatsby-blog-edmond/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
-/gatsby-blog-edmond/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
-/gatsby-blog-edmond/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-        decoding=&quot;async&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;You can also write code blocks here!&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; saltyDuckEgg &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;chinese preserved food product&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&quot;left&quot;&gt;Number&lt;/th&gt;
-&lt;th align=&quot;left&quot;&gt;Title&lt;/th&gt;
-&lt;th align=&quot;right&quot;&gt;Year&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;1&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;Harry Potter and the Philosopher’s Stone&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;2001&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;2&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;Harry Potter and the Chamber of Secrets&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;2002&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align=&quot;left&quot;&gt;3&lt;/td&gt;
-&lt;td align=&quot;left&quot;&gt;Harry Potter and the Prisoner of Azkaban&lt;/td&gt;
-&lt;td align=&quot;right&quot;&gt;2004&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;a href=&quot;https://raw.github.com/adamschwartz/github-markdown-kitchen-sink/master/README.md&quot;&gt;View raw (TEST.md)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;This is a paragraph.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is a paragraph.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h1&gt;Header 1&lt;/h1&gt;
-&lt;h2&gt;Header 2&lt;/h2&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Header 1
-========
-
-Header 2
---------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h1&gt;Header 1&lt;/h1&gt;
-&lt;h2&gt;Header 2&lt;/h2&gt;
-&lt;h3&gt;Header 3&lt;/h3&gt;
-&lt;h4&gt;Header 4&lt;/h4&gt;
-&lt;h5&gt;Header 5&lt;/h5&gt;
-&lt;h6&gt;Header 6&lt;/h6&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1
-## Header 2
-### Header 3
-#### Header 4
-##### Header 5
-###### Header 6&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h1&gt;Header 1&lt;/h1&gt;
-&lt;h2&gt;Header 2&lt;/h2&gt;
-&lt;h3&gt;Header 3&lt;/h3&gt;
-&lt;h4&gt;Header 4&lt;/h4&gt;
-&lt;h5&gt;Header 5&lt;/h5&gt;
-&lt;h6&gt;Header 6&lt;/h6&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;# Header 1 #
-## Header 2 ##
-### Header 3 ###
-#### Header 4 ####
-##### Header 5 #####
-###### Header 6 ######&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;This is a header.&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;This is the first list item.&lt;/li&gt;
-&lt;li&gt;This is the second list item.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Here&apos;s some example code:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&gt; ## This is a header.
-&gt; 1. This is the first list item.
-&gt; 2. This is the second list item.
-&gt;
-&gt; Here&apos;s some example code:
-&gt;
-&gt;     Markdown.generate();&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;Red&lt;/li&gt;
-&lt;li&gt;Green&lt;/li&gt;
-&lt;li&gt;Blue&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue
-
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;*&lt;/span&gt; Blue
-
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Red
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Green
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; Blue&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
-&lt;span class=&quot;token list punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ol&gt;
-&lt;li&gt;Buy flour and salt&lt;/li&gt;
-&lt;li&gt;Mix together with water&lt;/li&gt;
-&lt;li&gt;Bake&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Buy flour and salt
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Mix together with water
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; Bake&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;code goes&lt;/code&gt; here in this line&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;bold&lt;/strong&gt; goes here&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;markdown&quot;&gt;&lt;pre class=&quot;language-markdown&quot;&gt;&lt;code class=&quot;language-markdown&quot;&gt;&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token code-snippet code keyword&quot;&gt;`code goes`&lt;/span&gt; here in this line
-&lt;span class=&quot;token list punctuation&quot;&gt;1.&lt;/span&gt; &lt;span class=&quot;token bold&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;span class=&quot;token content&quot;&gt;bold&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;**&lt;/span&gt;&lt;/span&gt; goes here&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Paragraph:&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;!-- --&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Paragraph:
-
-    Code&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;hr&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;* * *
-
-***
-
-*****
-
-- - -
-
----------------------------------------&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Example&quot;&gt;an example&lt;/a&gt; link.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://example.com&quot;&gt;This link&lt;/a&gt; has no title attr.&lt;/p&gt;
-&lt;p&gt;This is &lt;a href=&quot;http://example.com&quot; title=&quot;Optional Title&quot;&gt;an example&lt;/a&gt; reference-style link.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This is [an example](http://example.com &quot;Example&quot;) link.
-
-[This link](http://example.com) has no title attr.
-
-This is [an example] [id] reference-style link.
-
-[id]: http://example.com &quot;Optional Title&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;single underscores&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;double asterisks&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;double underscores&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;*single asterisks*
-
-_single underscores_
-
-**double asterisks**
-
-__double underscores__&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;This paragraph has some &lt;code class=&quot;language-text&quot;&gt;code&lt;/code&gt; in it.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;This paragraph has some `code` in it.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;https://via.placeholder.com/200x50&quot; alt=&quot;Alt Text&quot; title=&quot;Image Title&quot;&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;![Alt Text](https://via.placeholder.com/200x50 &quot;Image Title&quot;)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;For example, if you had a file called src/pages/garden-gnomes.js, you could access that page at localhost:8000/garden-gnomes.&lt;/p&gt;
+&lt;p&gt;我直到開始真的做自己的網站才開始想搜尋引擎和推荐系統, 之前只是背一堆方法和理論, 客戶開條件, 自己照文件實現功能, 但自己有一個網站才會開始想為什麼需要這個功能, 那個功能比較重要&lt;/p&gt;
+&lt;p&gt;只有把這個東西當成是自己的, 你才能推荐和介紹給別人這個東西好在那, 不好在那&lt;/p&gt;
+&lt;p&gt;建部落格會培養研究能力, 如何有效去運用資源&lt;/p&gt;
+&lt;p&gt;只有錢(資源)是自己賺來的時候, 才能看出那些地方是刀口&lt;/p&gt;
+&lt;p&gt;因為你開始擁有, 你就開始想如何有更多&lt;/p&gt;
+&lt;p&gt;部落格是資産&lt;/p&gt;</content:encoded></item></channel></rss>
