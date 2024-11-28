@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 27 Nov 2024 11:40:05 GMT</lastBuildDate><item><title><![CDATA[How to Host Your Gatsby Blog on GitHub Pages in Just 10 Minutes]]></title><description><![CDATA[Deploying a Gatsby site to GitHub Pages involves a few key steps. Here's a step-by-step guide: 1. Set Up Your Gatsby Project Make sure your…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/deploy-gatsby-to-githubpage/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/deploy-gatsby-to-githubpage/</guid><pubDate>Wed, 27 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Deploying a Gatsby site to GitHub Pages involves a few key steps. Here&apos;s a step-by-step guide:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 28 Nov 2024 03:50:18 GMT</lastBuildDate><item><title><![CDATA[How to Host Your Gatsby Blog on GitHub Pages in Just 10 Minutes]]></title><description><![CDATA[Deploying a Gatsby site to GitHub Pages involves a few key steps. Here's a step-by-step guide: 1. Set Up Your Gatsby Project Make sure your…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/deploy-gatsby-to-githubpage/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/deploy-gatsby-to-githubpage/</guid><pubDate>Wed, 27 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Deploying a Gatsby site to GitHub Pages involves a few key steps. Here&apos;s a step-by-step guide:&lt;/p&gt;
 &lt;h2&gt;1. Set Up Your Gatsby Project&lt;/h2&gt;
 &lt;p&gt;Make sure your Gatsby project is fully built and tested locally. Run the development server to verify everything works as expected:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;gatsby develop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -53,12 +53,13 @@
 &lt;h2&gt;10. Optional: Deploy to a Root Domain&lt;/h2&gt;
 &lt;p&gt;If you want the site to appear on &lt;code class=&quot;language-text&quot;&gt;https://&amp;lt;username&gt;.github.io&lt;/code&gt; (without the repository name), skip the &lt;code class=&quot;language-text&quot;&gt;pathPrefix&lt;/code&gt; configuration and create the repository as &lt;username&gt;.github.io.&lt;/p&gt;
 &lt;p&gt;Hosting your Gatsby blog on GitHub Pages is a straightforward and cost-effective way to get your site live and accessible to the world. With just a few steps—installing the necessary tools, configuring your project, and deploying—you can have a fast, modern blog up and running in no time. Plus, GitHub Pages offers the added benefits of reliability, simplicity, and free hosting, making it a perfect solution for developers and bloggers alike.&lt;/p&gt;
-&lt;p&gt;Call-to-Action
-Now it’s your turn!&lt;/p&gt;
-&lt;p&gt;If you’ve followed this guide, share your experience and the link to your newly deployed blog in the comments below—we’d love to see your work!
-Ready to take your Gatsby blog to the next level? Subscribe to our newsletter for more tips, tutorials, and strategies to enhance your blog.
-Have questions or run into issues? Join the conversation and get help from our community by reaching out in the comments or on social media.
-Start hosting your blog today and unlock its full potential!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[10 Most Popular Commenting Systems: Find the Best Fit for Your Blog]]></title><description><![CDATA[Feedback is the Queen "Feedback from comments isn’t just critique; it’s the roadmap to better blogging." – Michael Hyatt ​​As a blogger, you…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/comparason of Commenting Systems/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/comparason of Commenting Systems/</guid><pubDate>Sun, 24 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: center;&quot;&gt;
+&lt;p&gt;Now it’s your turn!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you’ve followed this guide, share your experience and the link to your newly deployed blog in the comments below—we&apos;d love to see your work!&lt;/li&gt;
+&lt;li&gt;Ready to take your Gatsby blog to the next level? Subscribe to our newsletter for more tips, tutorials, and strategies to enhance your blog.&lt;/li&gt;
+&lt;li&gt;Have questions or run into issues? Join the conversation and get help from our community by reaching out in the comments or on social media.&lt;/li&gt;
+&lt;li&gt;Start hosting your blog today and unlock its full potential!&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[10 Most Popular Commenting Systems: Find the Best Fit for Your Blog]]></title><description><![CDATA[Feedback is the Queen "Feedback from comments isn’t just critique; it’s the roadmap to better blogging." – Michael Hyatt ​​As a blogger, you…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/comparason of Commenting Systems/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/comparason of Commenting Systems/</guid><pubDate>Sun, 24 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: center;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 603px; &quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/83a452e875029245490ea9bb23af1061/9128f/commenting-system.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 74.68354430379746%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAABJ0AAASdAHeZh94AAACb0lEQVR42o1Uy27TUBT0L4CoSFs/4jhxHLtxbCd2k9hpHk1CoKW0FYJFVQkVISgSqCDEQ+oKVeoCWLBDsGXBjhUSC1b9seGcU5oKIdouRvfhm7lzZs6NkjcraLX76HWvodsbo7M0wqA3gVVwoes2DKN8irxzDMNGnsa8ebI+PaPwh5rfQCNIkCQdwhKSxSUULU8OaFoJGhFrmg1Ts2Cqedp3kZu1kMsZ0OZ06HSGeUwSp+iqicevPuLp/ieocwZUtUQokroyyuUa4jhDGLXRbLRgtTZQGD2Cbeews3UHuw+fobX5AmHcRdl25VKloOXx4PAndj8coaCbssnKmNRxAozGN8WGXtqFld2FMdmDY8/h3s4W7j95jfH2Pvx6BrvkSDUK+7TgtxHUu2g0Mik5jjsCXgdBE7XaIqrVBKEfI/Ij2kvheTE8N4TvBQjoe6USnXqYpcsYDVcwGNwQDIerMo7Ga5hM1mWeZUOkKUHGZVovT/c6nRHq9VRCVNizXqcvqJGaNBuQR1W50bZ9WJaLYnHhXBSoK0Shpjv49f0rjn58Q5z0MOhfl4QrbiQe8iFpkXMwbRt13sLa5hbWb2+LZPaL/YsoWbcSkncxXCIvlaqi+H+YKmT2mSsqLl+aJVUheXYL/f5EPLKpbbi3+KLzMFXIUataGbl5ahMi8Lw65kk1t49PatnPf17MGVA0w8HByz0cvnmOZnuI1ZUNKjGUMrhUeSmECyvUjQq+vD/A53dvYTsRfOo1Vslk7p9g+MWc5d9fHjI7lztz1aQf+hRKUwgYvp8IuUWpXzjlkwkTc5KsytCP/xS8hYb0GM8v6uFvXlLOe8LBrkMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -356,22 +357,27 @@ For more tips on improving your blog, subscribe to our newsletter or follow us o
 &lt;p&gt;Success doesn’t happen overnight. Consistently creating content and engaging with your audience is key to building trust and generating income.&lt;/p&gt;
 &lt;h1&gt;Conclusion: &lt;strong&gt;Start Monetizing Your Blog Today&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;Monetizing your blog doesn’t have to be overwhelming. By following the strategies outlined in this guide—whether it’s affiliate marketing, sponsored posts, or creating your own digital products—you can turn your blog into a reliable income stream. Remember, the key is consistency, creativity, and understanding your audience&apos;s needs.&lt;/p&gt;
-&lt;p&gt;Ready to take the first step? Download our free Blog Monetization Checklist to ensure you’re on the right track to building a monetizing blog. Got questions or success stories to share? Leave a comment below or subscribe to our newsletter for more tips and resources to grow your blog into a thriving business.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blog Writing Made Easy: Tips for Crafting Posts That Engage]]></title><description><![CDATA[Content is King "Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting." - Bill…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</guid><pubDate>Wed, 20 Nov 2024 22:12:03 GMT</pubDate><content:encoded>&lt;!-- ![image](content-is-king-bill-gates-1996.jpg) --&gt;
-&lt;h2&gt;Content is King&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&quot;Content is where I expect much of the real money will be made on the Internet, just as it was in broadcasting.&quot; - Bill Gates, 1996&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;Ready to take the first step? Download our free Blog Monetization Checklist to ensure you’re on the right track to building a monetizing blog. Got questions or success stories to share? Leave a comment below or subscribe to our newsletter for more tips and resources to grow your blog into a thriving business.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Blog Writing Made Easy: Tips for Crafting Posts That Engage]]></title><description><![CDATA[Content is King Good content isn’t just "nice to have"—it’s the foundation of a successful blog. When you prioritize quality, you’re not…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/Writing-a-blog-post/</guid><pubDate>Wed, 20 Nov 2024 22:12:03 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/361cb5d2722c7a7e75cd0f7acf7badad/cc155/bill-gates-content-is-king.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.45569620253164%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADwElEQVR42g2Ra0yTBxhGv/1wQulcAQG5tQXlZkEoKBeLprAUlRTKqJVrVyoUUGHQDhFQBKkgN++aIFOZGw7xNpnIgmzTsIwRJS6MjWVR55xMjSyZm5plyZaz78dJnrw/nuQ5r+AubcFT2oaX7ACyNzORSn3x8/VBtTyY6MggtJrlrNPWofDrYYnHfnxEZJIOFrm28YbLHtxcduLqsoMFC+y87lKJ4CU5ip+0H5lrvnh8DdUyLxJWyNHFh+LQx7A7dxVZqSEsDdiFv2wApdcHJEafZ3XMOZJi+4mLOkVsVA/JiSdYpuxE8JWcw1vSikSykBCFN6UpodRuCKNJr+J6QwaTe0xs14egUm4mcNE1gjwuUVE8xZ6672iuv0OFbZxy6+e0O7/BkncJIcBtCE9JDeHLvLFuiKF7Uzy3nCZ+PFLA3Bkbc32lTLTmYNSaCfIcIXbpGJGBo4T6XBW5SJjfORSepwle0kug92EEf9cRFrtVEx0RwN48LceLtAxUpjHZJpYet/BZ4yaG6w1UGawoF4+JKiZYv3qC1JXjvJXwhcgoiZGX0WmuoA7vQwhxv4HSs514lZo6vYZ2YxIf2tI4U7SWUXs6o7VGBrfpqDMUEOzxJSsCvyY5cgKNapz4iDFWho2wKvwKcWGDhMtPIZh1v1OaNkpq6Bq2pmi5XpvO/SOFDDsMzBywMS/OftZfyicOK8lBl1ErRG+mp1TmP2Rrzn0ayuYoy50lP+MWGaljCFV5r3BabuPQrsacqGGoIoV7hwsYKNbxabWeu4cK+KHLxKTTQmHyMEXGXzh/6D96W/7h7P5/GRRzj/MVJztf0mR/hLC96Bm1RXM0ZpgoT1Zx0qLhqmM9XzUYud9t4duOPO7se5vhHVuoeechu8qec2zX3xwX6Wl5QW/HHxzbO8+JrnkcFdMI5fl3qSx8jC1znHWqON43J3F+q46bO7J5fNTGTLuZ6e4sqvRtFBh+prbkIYd2/sXBhj9pfvcJTvsTmqof0fTeA0o230awbfpJdPErLeWgjd2MOd6PztwkLmxbz1RzHjcas2nN3chyxWlC/AdJ09zkYP1Lju5+wYGmeXr2PWd/41O6mn+jxj6DkBh5gYSoPlLWfsSaFRtID/NgY6ycmvQo9poS2J0dTWacFbn3APLFp9FEX8NufcCWwlmKc6ewl33PTvs9SgonSU+7iCD3V+MuW8KChW6kJKlxZq2kXKOkel0E9QY13Tlq6nNKkft8jMLjLDHBQ+TrZzBnzmLUTYnfnSY14Tq+7odxl7byPxVAQDKNWrA1AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Bill gates content is king&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/361cb5d2722c7a7e75cd0f7acf7badad/f058b/bill-gates-content-is-king.png&quot; srcset=&quot;/gatsby-blog-edmond/static/361cb5d2722c7a7e75cd0f7acf7badad/c26ae/bill-gates-content-is-king.png 158w,
+/gatsby-blog-edmond/static/361cb5d2722c7a7e75cd0f7acf7badad/6bdcf/bill-gates-content-is-king.png 315w,
+/gatsby-blog-edmond/static/361cb5d2722c7a7e75cd0f7acf7badad/f058b/bill-gates-content-is-king.png 630w,
+/gatsby-blog-edmond/static/361cb5d2722c7a7e75cd0f7acf7badad/cc155/bill-gates-content-is-king.png 886w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;h1&gt;Content is King&lt;/h1&gt;
 &lt;p&gt;Good content isn’t just &quot;nice to have&quot;—it’s the foundation of a successful blog. When you prioritize quality, you’re not just creating posts; you’re ...&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;crafting experiences&lt;/li&gt;
 &lt;li&gt;building relationships, trust and credibility&lt;/li&gt;
 &lt;li&gt;establishing a digital asset&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Roadmap&lt;/h2&gt;
+&lt;h1&gt;Roadmap&lt;/h1&gt;
 &lt;p&gt;Writing a blog post can seem daunting at first, but with a clear structure and approach, you can create engaging and valuable content. Here’s a step-by-step guide to get started:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Identify Your Purpose and Audience&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2&gt;1. Identify Your Purpose and Audience&lt;/h2&gt;
 &lt;p&gt;Purpose: Why are you writing this blog? Is it to inform, entertain, persuade, or share an experience?
 Audience: Who are you writing for? Understand your readers’ needs, interests, and problems.&lt;/p&gt;
 &lt;p&gt;For example:
@@ -389,13 +395,19 @@ If you’re writing a blog about tutorials of blogging, your audience might be d
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;Choose a Topic&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2&gt;2. Choose a Topic&lt;/h2&gt;
 &lt;p&gt;Pick a specific topic that aligns with your blog’s purpose and appeals to your audience.
 Use tools like &lt;code class=&quot;language-text&quot;&gt;Google Trends&lt;/code&gt;, &lt;code class=&quot;language-text&quot;&gt;Answer the Public&lt;/code&gt;, or &lt;code class=&quot;language-text&quot;&gt;Ubersuggest&lt;/code&gt; to find trending or frequently asked questions.&lt;/p&gt;
 &lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/56715972d1e31f8a4331d38016357bd2/43fbc/post-topic-choice.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 65.18987341772153%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABJ0AAASdAHeZh94AAACIUlEQVR42n1TW27iQBD0HXOLfOY4OUSOEEXJ/gQUXjYYzMMYgQUYG+P3A1xb7cVagrI70uCZ6aG6qrpHAUdVVfLB8XjEwlxgupgjSRLcxu7X/xrK7aY8nzEbDrGezep9UZZw9ntYlgXXdVFyfz+SOEEcJz8D1izSFLBtnKZTqO02DNOEvdthMplgMBggiqI/9y6X+jtnXNM0nM+Xv4D3UvI8x/DzEzFBCsNAvN2iJMDR86CqKi5XMDB5ysQBz6ufGDbABoGG4zGOZBPN58jIwqG/7uEAdTTCarUCfB/Vcglk2XcP8zyDyUDKQBgGGNLDTqeDXreLLqdOP6eMf/V60Bjrvb7i6+UFOzJr1IgN6RVYOTCrIVn5pz698Gi+VFuKkPFym9J/vb0hpI8JWfu0oGZKcMdxsDs4aNFrfaSTbAblIjLZItbHB2xeyooCXhBgQ1kuL2jPz/AfH+GTkUfQNQsWxjECshpQSUBLJOafTnWrKY1vY4KdKC8i25ht4tFok8WYPD0hfXiAvdlgQ0CP7CMyiwhiUP6ZezRFEskNoLSFyywRgaJWi70V15LU93fs+31s1msEYYiEFoS6XoOqtEgUVnWN+VvdAO7ZwDrZFZQcXY2WdZ/MpTCyjqXqBMr5AET69FqY27b71jZyYULj5XXUhlNij9VtkbG0ipw5VGCxgNKPkuS/gBLY0jeDlRRwmcJUntySIHIuU55iA3b/ln8DgiPUHq8QP2EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;google trends&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/56715972d1e31f8a4331d38016357bd2/f058b/post-topic-choice.png&quot; srcset=&quot;/gatsby-blog-edmond/static/56715972d1e31f8a4331d38016357bd2/c26ae/post-topic-choice.png 158w,
+/gatsby-blog-edmond/static/56715972d1e31f8a4331d38016357bd2/6bdcf/post-topic-choice.png 315w,
+/gatsby-blog-edmond/static/56715972d1e31f8a4331d38016357bd2/f058b/post-topic-choice.png 630w,
+/gatsby-blog-edmond/static/56715972d1e31f8a4331d38016357bd2/43fbc/post-topic-choice.png 797w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
     &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/7828e656406375cf62be535732218346/2643c/google-trends.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 35.44303797468354%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAABJ0AAASdAHeZh94AAABF0lEQVR42nWR3UrEMBSE+/73vsk+gyDeCopYBN2tuu3qbtOc/HecJG0VROi0ycmcL5O0EeOglYKzFtp4GOvgvYeIIIYAYObzv+aUNt/MeZNYL+IrZROqN9ciXzFWhZi28U+tfsks61mNdZGpAifAoevQtk/o3o74PDN1mGFthPMJPo/p/a1cX8dChliPRtigTQDX8HB3g9vrHbr3geoxCa/AJVxGhaEfCLdwjsdLAftecLX7QHdizcfizZwNaP1cQPePLZ5fDjiezsWU15V2uCiBFlfvmVClA157g8tUQdrG4q3AZZIB41R/Tt6gblYbZPGUZuPLEXPatb6q+eJOWRONirDzKExjmGYF/W3a4DkA04+KIRbfN1dAICWVDv8JAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -421,10 +433,7 @@ Use tools like &lt;code class=&quot;language-text&quot;&gt;Google Trends&lt;/cod
 &lt;/div&gt;
 &lt;p&gt;Example:
 Instead of &lt;strong&gt;&quot;How to Use Gatsby,&quot;&lt;/strong&gt; narrow it down to &lt;strong&gt;&quot;Step-by-Step Guide to Deploy a Gatsby Blog on GitHub Pages.”&lt;/strong&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;3&quot;&gt;
-&lt;li&gt;Create an Outline&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2&gt;3. Create an Outline&lt;/h2&gt;
 &lt;p&gt;Organize your thoughts into a logical structure:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;: Briefly introduce the topic and explain &lt;code class=&quot;language-text&quot;&gt;why it matters&lt;/code&gt;.
 &lt;strong&gt;Main Content&lt;/strong&gt;: Break down the topic into smaller sections. Use headings (H2, H3) for clarity.
@@ -435,56 +444,35 @@ Step 1: Set Up Your Gatsby Project
 Step 2: Configure gatsby-config.js for GitHub Pages
 Step 3: Deploy Your Blog
 Conclusion: Recap and encourage readers to share their experience&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;4&quot;&gt;
-&lt;li&gt;Write a Captivating Title&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2&gt;4. Write a Captivating Title&lt;/h2&gt;
 &lt;p&gt;A good title grabs attention and summarizes the post&apos;s value.&lt;/p&gt;
 &lt;p&gt;Make it specific: “How to Build a Personal Blog with Gatsby in 10 Minutes”
 Use numbers or actionable words: “5 Simple Steps to Optimize Your Gatsby Blog”&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;5&quot;&gt;
-&lt;li&gt;Write the Blog Post&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2&gt;5. Write the Blog Post&lt;/h2&gt;
 &lt;p&gt;Introduction: Hook readers with an interesting fact, question, or story. Explain what they’ll gain by reading.&lt;/p&gt;
 &lt;p&gt;Example: &quot;Ever wondered how to get your blog online for free? In this guide, I’ll show you how to deploy your blog on GitHub Pages in just three simple steps.&quot;&lt;/p&gt;
 &lt;p&gt;Main Content: Break up text with headings and subheadings. Use bullet points, images, and examples for clarity. Write in short paragraphs to make it easy to read.&lt;/p&gt;
 &lt;p&gt;Conclusion:
 Summarize the main points. Include a Call-to-Action (CTA).&lt;/p&gt;
 &lt;p&gt;Example: &quot;Now that your Gatsby blog is live on GitHub Pages, what’s your next step? Share your blog link in the comments, or check out my guide on adding SEO to Gatsby!&quot;&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;6&quot;&gt;
-&lt;li&gt;Add Visuals and Media&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2&gt;6. Add Visuals and Media&lt;/h2&gt;
 &lt;p&gt;Enhance your blog post with:&lt;/p&gt;
-&lt;p&gt;Images: Screenshots, diagrams, or illustrations.
-Videos: Embedded tutorials or demonstrations.
-Code Snippets: For technical posts, use syntax highlighting tools like &lt;code class=&quot;language-text&quot;&gt;Markdown&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;Prism.js&lt;/code&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;7&quot;&gt;
-&lt;li&gt;Optimize for SEO&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;Images&lt;/code&gt;: Screenshots, diagrams, or illustrations.
+&lt;code class=&quot;language-text&quot;&gt;Videos&lt;/code&gt;: Embedded tutorials or demonstrations.
+&lt;code class=&quot;language-text&quot;&gt;Code Snippets&lt;/code&gt;: For technical posts, use syntax highlighting tools like &lt;code class=&quot;language-text&quot;&gt;Markdown&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;Prism.js&lt;/code&gt;.&lt;/p&gt;
+&lt;h2&gt;7. Optimize for SEO&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Keywords&lt;/strong&gt;: Incorporate relevant keywords naturally into your title, headings, and content.
 &lt;strong&gt;Meta Description&lt;/strong&gt;: Write a brief summary (150-160 characters) for search engines.
 &lt;strong&gt;Internal Links&lt;/strong&gt;: Link to other related posts on your blog.
 &lt;strong&gt;Alt Text&lt;/strong&gt;: Add descriptive text to your images for accessibility and SEO.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;8&quot;&gt;
-&lt;li&gt;Edit and Proofread&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2&gt;8. Edit and Proofread&lt;/h2&gt;
 &lt;p&gt;Before publishing: Review your post to catch awkward phrasing or errors.
 Use tools like &lt;code class=&quot;language-text&quot;&gt;Grammarly&lt;/code&gt; or &lt;code class=&quot;language-text&quot;&gt;Hemingway&lt;/code&gt; Editor to polish your writing.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;9&quot;&gt;
-&lt;li&gt;Publish and Promote&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2&gt;9. Publish and Promote&lt;/h2&gt;
 &lt;p&gt;Publish: Post your blog on your platform.
 Promote: Share on &lt;strong&gt;social media&lt;/strong&gt;, &lt;strong&gt;email newsletters&lt;/strong&gt;, and &lt;strong&gt;online communities&lt;/strong&gt;.
 Engage: Respond to comments and feedback from readers.&lt;/p&gt;
-&lt;hr&gt;
-&lt;ol start=&quot;10&quot;&gt;
-&lt;li&gt;Track Performance&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2&gt;10. Track Performance&lt;/h2&gt;
 &lt;p&gt;Use tools like &lt;code class=&quot;language-text&quot;&gt;Google Analytics&lt;/code&gt; to monitor:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Page views&lt;/li&gt;
@@ -492,7 +480,7 @@ Engage: Respond to comments and feedback from readers.&lt;/p&gt;
 &lt;li&gt;User engagement (comments, shares)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This helps you understand what works and refine future posts.&lt;/p&gt;
-&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;h1&gt;Conclusion&lt;/h1&gt;
 &lt;p&gt;Writing a blog post may seem daunting at first, but with a clear process—planning, drafting, editing, and publishing—you can turn your ideas into impactful content. The most important step is to start! Over time, with practice, you’ll develop a workflow that works best for you. What’s the biggest challenge you face when writing a blog post? Let me know in the comments, and I’ll share my best tips!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Building a Fast, Modern Blog with Gatsby: A Step-by-Step Guide]]></title><description><![CDATA[Creating a blog that is not only visually appealing but also lightning-fast is easier than ever, thanks to Gatsby. This modern framework…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/build-gatsby-aa-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/build-gatsby-aa-blog/</guid><pubDate>Sun, 10 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: center;&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 365px; &quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/b7e46dc9cc36d8e546a76b204df193a3/60097/great-gatsby.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
