@@ -1,4 +1,147 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 28 Nov 2024 03:50:18 GMT</lastBuildDate><item><title><![CDATA[How to Host Your Gatsby Blog on GitHub Pages in Just 10 Minutes]]></title><description><![CDATA[Deploying a Gatsby site to GitHub Pages involves a few key steps. Here's a step-by-step guide: 1. Set Up Your Gatsby Project Make sure your…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/deploy-gatsby-to-githubpage/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/deploy-gatsby-to-githubpage/</guid><pubDate>Wed, 27 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Deploying a Gatsby site to GitHub Pages involves a few key steps. Here&apos;s a step-by-step guide:&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 16 Dec 2024 18:20:40 GMT</lastBuildDate><item><title><![CDATA[The Guide to Deploy Artalk as Your Commenting System]]></title><link>https://gatsbystarterblogsource.gatsbyjs.io/install-arttalk/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/install-arttalk/</guid><pubDate>Sun, 15 Dec 2024 22:12:03 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/396f2ba1dc7b32172af9d27b09b76fd9/9a86a/setenv.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 101.26582278481011%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAABx0lEQVR42p1UW1aDMBRkNy7AZfnnftyJG/DLfz88VugpUAQCJIGQZLw3FZT6guacKUkhk5n7SAQazgM+wM9wzoXn1hHxnn3jkEuHLE3x+hojThLsdi9Ikn0g3kTIP0I7KOOhtIZoGrRdB01za+1qoslN9N9HWxAIWcXhcECe5wEp2b4kdkqpsC8o7Ps+/ME2+17jkjElMTqxa5RVTfFr0XQS4zguYAjsZJVlnmjdk7IB/TBAkVpJB2haa1auT2tjxnVZtnbEfp8E26xiUmX5aUyYO7c+2xF7fyve0FC5CCFQVxWqqiRUAbzupPy7ZOCXdTiQkk4qUmM3J4MdVDXXrgzdFnlSWBQF6lp8a7/zgP9Wq9a6uaNCUpiwJGt27l+/KGxHzc7qT/G1v3bJbNl8WGbrSyIXTmcSLqkJ5+pZyKyQs5xlBxyPRxTHAnEcU4LEt5M3XA6eglojzXJIyibDfCidBpdT03ZzNywQ3p+czJZ5w0CFOys628REXPhfCZfx+4x7tPZ2+fpeDw6tokOMg6B79Dm12GWUNPvP9fXTYGdl67AjEtV73N1rXN2UuL6tAnF0yc3CREJ6UuiR1Q4PTyMen0do4/EOelUl8VfH3KkAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;pawel-huryn-post&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/396f2ba1dc7b32172af9d27b09b76fd9/f058b/setenv.png&quot; srcset=&quot;/gatsby-blog-edmond/static/396f2ba1dc7b32172af9d27b09b76fd9/c26ae/setenv.png 158w,
+/gatsby-blog-edmond/static/396f2ba1dc7b32172af9d27b09b76fd9/6bdcf/setenv.png 315w,
+/gatsby-blog-edmond/static/396f2ba1dc7b32172af9d27b09b76fd9/f058b/setenv.png 630w,
+/gatsby-blog-edmond/static/396f2ba1dc7b32172af9d27b09b76fd9/9a86a/setenv.png 792w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/126a77b768ec62261d0a34a5e2f0ee8a/cb9f4/image.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 52.53164556962025%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABJ0AAASdAHeZh94AAAB6UlEQVR42n1SPW8TQRC9v0XBT0BCiHSBxkZCpEhHQ4FA6UCOITSpUCKloKRBNNBBhRAFIBI7yAL7/CV8t3e+24+7vcfMrB0RQRhptXuzM+/evLfR5s5XtB+f4Ha3jyv3vuDq/R6uPTjF9YffsbEzwNbeCHf2YrR2Y7S7Y7S6E2zvz9F+Osfd5wluPUux+WiCGx3aOwpRHE+QpjmKQiPLFIytUfsG/4tmda2UwnSeIFMZqspRvkE0Hk9gjIV1FdRSI88zWGsvAGqosZLFMZrmGMZjzGYzFGUpuShNUlgCrOsaJSWNDeeqqmX/MzwBhrsAmBGB494Ap/0TfDvuE6hFxI3WOimsaw+ttTB0zsle0jcDFEUhO0/DPRzWaPwYxhiMFjR+QlLViBjMrlhxwhgjoPzNoMyagdY/4uVJYy86VxhMHV5/tGfangO82ITzJnEt5xIyQxMB54xMJ6YEwDAyGv9X87/AtQkTqGyJgpgb6vfeB1OMcTISX+6/eIP3n3pywaNzJLnG0asP+Nwbsi1iml89q0WiSBIdjCQMYcgiN6RdPE9xufUEncO38PT3fFlIU//nL1y6uYuDl+8EcEn5NZtFqqTOueqMfVSUGuuxLT3qUldUFFzmFZobKWZm4S2Gl8EMWUM+r6X6Da0yP2aRiifEAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;pawel-huryn-post&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/126a77b768ec62261d0a34a5e2f0ee8a/f058b/image.png&quot; srcset=&quot;/gatsby-blog-edmond/static/126a77b768ec62261d0a34a5e2f0ee8a/c26ae/image.png 158w,
+/gatsby-blog-edmond/static/126a77b768ec62261d0a34a5e2f0ee8a/6bdcf/image.png 315w,
+/gatsby-blog-edmond/static/126a77b768ec62261d0a34a5e2f0ee8a/f058b/image.png 630w,
+/gatsby-blog-edmond/static/126a77b768ec62261d0a34a5e2f0ee8a/40601/image.png 945w,
+/gatsby-blog-edmond/static/126a77b768ec62261d0a34a5e2f0ee8a/78612/image.png 1260w,
+/gatsby-blog-edmond/static/126a77b768ec62261d0a34a5e2f0ee8a/cb9f4/image.png 1903w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/2ce73ce68f2c757175b45d5a87ba645f/10b63/mount.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 52.53164556962025%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABJ0AAASdAHeZh94AAAB8ElEQVR42o1SPW8UMRDdP0kVlAIqOKQUlDRQICJRgPgQJ0oK/kZESZUmEtydkgtEuct++Nb2rnfttfceM3O6KyMszXq8Hr9582ay49cXmLyfYfLhEg9eLfDw9ApHb5Y4Or3G8ds/eP51jZMvazz9dIdnn3OcTAu8+LbBk2mNl981JlONR+8KPP5oyCyysizQti1iTOiHhKrMoVRB5wG8tlv50p4w0mHTJpSqx7ipoY1FUdZorEVKUeIJsBKwcRyhe4eblYIxDVwXYVr+v5W7rnPwIeH8yuPHzxLqfIbbqsVqtUZRFOh6D86dGcoSwoBhGGgPtEc5xxjROC/+jikDJ7GegMMI1MZhvlhiMf+N2fwSvR+QMQBb13Ww1sjD/RKQlMT33qOua9imQd/3UqL3HZZ/V7i+3UDTHVeS7dgkMNP1XS5+oASRk4QI5YKw5ZLyvEBVKSjWT1tKM+LXzYCzi3jQ+wBobUMPcsoa5JzIPIGaPorP/5QiMLWR5A0xNbYV5iF4YccVZTv9IpxzFGRx3+IYnghPJTOQbRzpFsgfpHnS5T0gBxpj/guQNWSriWknvkckrQ8M9xqy6PctrbXEcLmOmqhpvFrXYYjx0MTMdf2BodZGRofLYeNRYm32+vAkOAJgdm3ToqbGsOaB4vbT8Q9VFELEpRjuSQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;pawel-huryn-post&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/2ce73ce68f2c757175b45d5a87ba645f/f058b/mount.png&quot; srcset=&quot;/gatsby-blog-edmond/static/2ce73ce68f2c757175b45d5a87ba645f/c26ae/mount.png 158w,
+/gatsby-blog-edmond/static/2ce73ce68f2c757175b45d5a87ba645f/6bdcf/mount.png 315w,
+/gatsby-blog-edmond/static/2ce73ce68f2c757175b45d5a87ba645f/f058b/mount.png 630w,
+/gatsby-blog-edmond/static/2ce73ce68f2c757175b45d5a87ba645f/40601/mount.png 945w,
+/gatsby-blog-edmond/static/2ce73ce68f2c757175b45d5a87ba645f/78612/mount.png 1260w,
+/gatsby-blog-edmond/static/2ce73ce68f2c757175b45d5a87ba645f/10b63/mount.png 1897w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;cs&quot;&gt;&lt;pre class=&quot;language-cs&quot;&gt;&lt;code class=&quot;language-cs&quot;&gt;docker run &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;d \
+    &lt;span class=&quot;token operator&quot;&gt;--&lt;/span&gt;name artalk \
+    &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;p &lt;span class=&quot;token number&quot;&gt;8080&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;23366&lt;/span&gt; \
+    &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;v $&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;pwd&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;data&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;data \
+    &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;e &lt;span class=&quot;token string&quot;&gt;&quot;TZ=Asia/Shanghai&quot;&lt;/span&gt; \
+    &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;e &lt;span class=&quot;token string&quot;&gt;&quot;ATK_LOCALE=en&quot;&lt;/span&gt; \
+    &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;e &lt;span class=&quot;token string&quot;&gt;&quot;ATK_SITE_DEFAULT=Artalk&apos;s blog&quot;&lt;/span&gt; \
+    &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;e &lt;span class=&quot;token string&quot;&gt;&quot;ATK_SITE_URL=https://example.com&quot;&lt;/span&gt; \
+    artalk&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;artalk&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;go&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2.9&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;.1&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The Truth About Product Management: What It Really Takes to Succeed]]></title><description><![CDATA[I keep the original text here in case it is romoved someday. Product Management is not about: Asking customers about the requirements Most…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/product-management/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/product-management/</guid><pubDate>Tue, 03 Dec 2024 22:40:32 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/921e341d62271e7fd37d577fa524a2ee/25c1c/product-management-yes-and-no.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 55.69620253164557%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAYAAAB/Ca1DAAAACXBIWXMAABJ0AAASdAHeZh94AAACwElEQVR42m2Sy09TURDG+y8YV5JU4kIwJiz0T3DjUmNiFAoqgo9gYtzoQuMDNQYNPmKNGB+JMUaUp0IxCLU822IrUKiYYu2DW6CXFmhFuba99/bnsVXDwkm+nPlOZr6Zc2YMRqORv9i40UhBgZGSrYUcLy2ixlRM1d4iTh4oFryYY2VbBN/MkX1FbCspZENBPmethqG8vILfMJnKBUyUlZmoPFRO7dlD1F+p5NoFgfMHqbtYwe3aCupqq4RfydHqCkpLTbmctTAEEi5G5hpZa1kBTYe0ms358vIK7u5elAYzSiBERtzpus7/zBBfDeKLDaEoKZSfKpm0mvdTCqqazgXJ8RhumxUGe9AXY/miqpoT1bVsnutZwbMYUqspovISs1IAKWTFOeZgdt5PeHyamXAkF5xMJgkGg7nOwgvfSciLaE4fakLh5/IPlOR39Iya79Biec+HPhtyyEN04TOtDxtYlCWSko/Jvk4G+4bpfNPFzEyA3h4PJw6b0VMrxOZkgv4wfm+EaCTGyICKd0wI3hlYxuUeBuklkkianIwTCUwQ93chjTxnwudjbNTD52kfTxrmuXvZjndimelXY3z7MkvEJ7GaXMEzAlPj4slXzS2cPnOJN68aiSVW+ORyseT3MmRtpvr0RV4PTNJv62ew30H9TT/bd8zQesNN5H4XgUYLQYeb1A+dlJJA01QMZ8/VcaT0GH2Wd7k/kBwtudM15OTClQdcftzFnt37+eB047X3c/LUFNYnFsL2XpzdHby414m1zYWuZsRANQy3zE8ZaG2GbzLpdJrIqJWMmDAZhfhHG8+a3mI6eBy7bZjx90PUVLawbtM5du6qY/jjHK63Vnrauv9MWscQW4gRjQqxVBpNVEksyGIVNDKqRkRMNuT/Snt7B5amNqbsHu7WP+L6zXbWF57B4QwQmpjC4/T828tf3OC9DEMU0hIAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;product-management-yes-and-no&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/921e341d62271e7fd37d577fa524a2ee/f058b/product-management-yes-and-no.png&quot; srcset=&quot;/gatsby-blog-edmond/static/921e341d62271e7fd37d577fa524a2ee/c26ae/product-management-yes-and-no.png 158w,
+/gatsby-blog-edmond/static/921e341d62271e7fd37d577fa524a2ee/6bdcf/product-management-yes-and-no.png 315w,
+/gatsby-blog-edmond/static/921e341d62271e7fd37d577fa524a2ee/f058b/product-management-yes-and-no.png 630w,
+/gatsby-blog-edmond/static/921e341d62271e7fd37d577fa524a2ee/40601/product-management-yes-and-no.png 945w,
+/gatsby-blog-edmond/static/921e341d62271e7fd37d577fa524a2ee/25c1c/product-management-yes-and-no.png 1047w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Today Twitter/X recommend this post to me. It’s an pivotal summary of the product management as part of the whole product development:&lt;/p&gt;
+&lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/734f80242d21e1ed1dfc2a480b9e31ae/f2793/pawel-huryn-post.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 60.12658227848101%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAABJ0AAASdAHeZh94AAABb0lEQVR42pVTy5KCMBDEJyLI07eogMsrBMSD3naP+w/7/x/SO5MqLlu1ooeuyZBKp9M9aJ/XEj/fX9ifIpRliawQME4Smqa9hcFggOFwCC1PYjyuEpbtIAiW8PwAxnyO8XiMyWSC6XSK0WikDjB6yU3LwnK9xmazQRiGOBwOWFMfBAG2263qDcN4XS0r8TwPi8UCFpFzNU1T1Q6u68JxHLXfS8hk9/sDTXNFe7uhbVsIUanK37Isw2q1Ump93+8nZAV5XqCqJB3OURQF9TmSywUZ1TRNsdvtlZ+d+U+9tIiQFUlZI6eUU1IUxzFyIubU2VsOZk5Bce1VaNs26qaBrGuljFFJCVFVKIiwoT2+RL2A9vgCtulfQja8LIV6qhAC0fmMJEnUU7uncxgciuO4ys+nhOxhRWpYUZpmiuiDwGEwuGeyl8eGzeY5m81m0HVdrdkrHicGr/8G8jQUHoUoimgsdirN8Hikv8V/+9fr8AsNFhbrU0omOAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;pawel-huryn-post&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/734f80242d21e1ed1dfc2a480b9e31ae/f058b/pawel-huryn-post.png&quot; srcset=&quot;/gatsby-blog-edmond/static/734f80242d21e1ed1dfc2a480b9e31ae/c26ae/pawel-huryn-post.png 158w,
+/gatsby-blog-edmond/static/734f80242d21e1ed1dfc2a480b9e31ae/6bdcf/pawel-huryn-post.png 315w,
+/gatsby-blog-edmond/static/734f80242d21e1ed1dfc2a480b9e31ae/f058b/pawel-huryn-post.png 630w,
+/gatsby-blog-edmond/static/734f80242d21e1ed1dfc2a480b9e31ae/f2793/pawel-huryn-post.png 743w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;I keep the original text here in case it is romoved someday.&lt;/p&gt;
+&lt;p&gt;Product Management is not about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Asking customers about the requirements
+&lt;blockquote&gt;
+&lt;p&gt;Most of time your customers don&apos;t really know what they want, so as a product manager you cannot just follow what customer asked you to do. Product manager is a leader, not a follower.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;Writing detailed specifications&lt;/li&gt;
+&lt;li&gt;Creating prototypes and wireframes
+&lt;blockquote&gt;
+&lt;p&gt;Implementation should be designer&apos;s and engineer&apos;s task.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;Assigning tasks to developers&lt;/li&gt;
+&lt;li&gt;Verifying and accepting the work of others&lt;/li&gt;
+&lt;li&gt;Obsessing over velocity, deadlines, and roadmaps&lt;/li&gt;
+&lt;li&gt;Mastering Scrum to perfection more important. take advantage of 20/80 rule.&lt;/li&gt;
+&lt;li&gt;Acting like the CEO of the product&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Anyone can do that.&lt;/p&gt;
+&lt;p&gt;It&apos;s about:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Understanding customer&apos;s problems, needs, and desires&lt;/li&gt;
+&lt;li&gt;Understanding the market and the business in depth&lt;/li&gt;
+&lt;li&gt;Collaborating closely with engineers and designers
+&lt;blockquote&gt;
+&lt;p&gt;Product manager should have a clear blueprint and roadmap in mind, and keep the team in the same page.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;Identifying opportunities, ideating solutions, and tackling the risks together
+&lt;blockquote&gt;
+&lt;p&gt;According to business needs, Product manager should find projects Worth Doing, dig into business questions. For example, if you&apos;re working at a hotel, a key metric is Occupancy and Average Daily Rate. Just understanding the metrics is not sufficient; we also need to understand how we can make those metrics move. You might start asking yourself questions such as: &lt;br&gt; - What actually impacts occupancy(X)? &lt;br&gt; - Was there a rational reason for it to be down this week, like a storm or seasonality? &lt;br&gt; - Are our competitor&apos;s pricing lower? &lt;br&gt; - If we lower price, would we see an increase?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;Marrying customer goals and business goals&lt;/li&gt;
+&lt;li&gt;Influencing others to work toward the common goal&lt;/li&gt;
+&lt;li&gt;Being humble (it&apos;s ok not to be the smartest person in the room)
+&lt;blockquote&gt;
+&lt;p&gt;One of my supervisors is not humble. Instead, he is direct and polite. His words made me uncomfortable in the beginning, but I found that he just tried to save everyone&apos;s time. I learn critical thinking and independent thinking.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;Experimenting to validate assumptions&lt;/li&gt;
+&lt;li&gt;Leading without authority&lt;/li&gt;
+&lt;li&gt;Turning chaos into clarity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Start with these questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Why are we building this thing?&lt;/li&gt;
+&lt;li&gt;Why are we building it now?&lt;/li&gt;
+&lt;li&gt;For whom are we building it?&lt;/li&gt;
+&lt;li&gt;What&apos;s the unique value of our product?&lt;/li&gt;
+&lt;li&gt;How is it aligned with the company&apos;s vision?&lt;/li&gt;
+&lt;li&gt;How is it aligned with the business strategy?&lt;/li&gt;
+&lt;li&gt;What does success look like? How can we measure it?&lt;/li&gt;
+&lt;li&gt;What are the customer needs/jobs (functional, emotional, social)?&lt;/li&gt;
+&lt;li&gt;How will it affect our customers and users?&lt;/li&gt;
+&lt;li&gt;How will it create value for the business?&lt;/li&gt;
+&lt;li&gt;Can we buy it instead of building it?&lt;/li&gt;
+&lt;li&gt;How can we make sure that our customers would love it?&lt;/li&gt;
+&lt;li&gt;Will our customers know how to use it?&lt;/li&gt;
+&lt;li&gt;Can our business support it (e.g., legal, finances)?&lt;/li&gt;
+&lt;li&gt;Is it feasible? Can we build it?&lt;/li&gt;
+&lt;li&gt;How can we bring it to the market? Do we have the required channels?&lt;/li&gt;
+&lt;li&gt;Should we do it at all? Are there any ethical considerations?&lt;/li&gt;
+&lt;li&gt;What are the riskiest assumptions? How can we validate them?&lt;/li&gt;
+&lt;li&gt;What does the data tell us?&lt;/li&gt;
+&lt;li&gt;How can we get maximum validating learning with minimum effort?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Be curious. Learn and experiment. Question solutions and push back on things handled down.&lt;/p&gt;
+&lt;p&gt;Remember that product management is about creating a &quot;product customers love, yet also works for our business&quot; (Marty Cagan, Inspired), not about pleasing stakeholders.&lt;/p&gt;
+&lt;p&gt;After 9 years, I&apos;m still learning daily, and I do not know everything, but I can give you my perspective on any questions you have.&lt;/p&gt;
+&lt;h1&gt;What product will you own today?&lt;/h1&gt;
+&lt;p&gt;Whether it’s a new feature, a team process, or even your career trajectory, start thinking like a product manager who owns the outcome. Take the first step by embracing this mindset, and watch how it transforms the way you approach your work and your life.&lt;/p&gt;
+&lt;p&gt;If this resonates with you, let’s keep the conversation going! Share your thoughts below, or connect with me to explore how you can start thinking everything as a product and succeed like an owner.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[How to Host Your Gatsby Blog on GitHub Pages in Just 10 Minutes]]></title><description><![CDATA[Deploying a Gatsby site to GitHub Pages involves a few key steps. Here's a step-by-step guide: 1. Set Up Your Gatsby Project Make sure your…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/deploy-gatsby-to-githubpage/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/deploy-gatsby-to-githubpage/</guid><pubDate>Wed, 27 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Deploying a Gatsby site to GitHub Pages involves a few key steps. Here&apos;s a step-by-step guide:&lt;/p&gt;
 &lt;h2&gt;1. Set Up Your Gatsby Project&lt;/h2&gt;
 &lt;p&gt;Make sure your Gatsby project is fully built and tested locally. Run the development server to verify everything works as expected:&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;gatsby develop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -53,7 +196,7 @@
 &lt;h2&gt;10. Optional: Deploy to a Root Domain&lt;/h2&gt;
 &lt;p&gt;If you want the site to appear on &lt;code class=&quot;language-text&quot;&gt;https://&amp;lt;username&gt;.github.io&lt;/code&gt; (without the repository name), skip the &lt;code class=&quot;language-text&quot;&gt;pathPrefix&lt;/code&gt; configuration and create the repository as &lt;username&gt;.github.io.&lt;/p&gt;
 &lt;p&gt;Hosting your Gatsby blog on GitHub Pages is a straightforward and cost-effective way to get your site live and accessible to the world. With just a few steps—installing the necessary tools, configuring your project, and deploying—you can have a fast, modern blog up and running in no time. Plus, GitHub Pages offers the added benefits of reliability, simplicity, and free hosting, making it a perfect solution for developers and bloggers alike.&lt;/p&gt;
-&lt;p&gt;Now it’s your turn!&lt;/p&gt;
+&lt;h1&gt;Now it’s your turn!&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;If you’ve followed this guide, share your experience and the link to your newly deployed blog in the comments below—we&apos;d love to see your work!&lt;/li&gt;
 &lt;li&gt;Ready to take your Gatsby blog to the next level? Subscribe to our newsletter for more tips, tutorials, and strategies to enhance your blog.&lt;/li&gt;
@@ -210,94 +353,94 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Solution&lt;/th&gt;
-&lt;th&gt;Easy to Integrate&lt;/th&gt;
-&lt;th&gt;Privacy-Friendly&lt;/th&gt;
-&lt;th&gt;Ad-Free&lt;/th&gt;
-&lt;th&gt;Free Option&lt;/th&gt;
-&lt;th&gt;Best For&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Solution&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Easy to Integrate&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Privacy-Friendly&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Ad-Free&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Free Option&lt;/th&gt;
+&lt;th align=&quot;left&quot;&gt;Best For&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Disqus&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;No&lt;/td&gt;
-&lt;td&gt;No&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Blogs with diverse audiences.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Disqus&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;No&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;No&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Blogs with diverse audiences.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Facebook&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;No&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Blogs with social focus.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Facebook&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;No&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Blogs with social focus.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Staticman&lt;/td&gt;
-&lt;td&gt;No&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Tech-savvy, Git users.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Staticman&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;No&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Tech-savvy, Git users.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;giscus&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Open-source projects.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;giscus&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Open-source projects.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Utterances&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Developer-focused blogs.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Utterances&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Developer-focused blogs.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Commento&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Limited&lt;/td&gt;
-&lt;td&gt;Privacy-conscious bloggers.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Commento&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Limited&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Privacy-conscious bloggers.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Hyvor Talk&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Limited&lt;/td&gt;
-&lt;td&gt;General-purpose blogs.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Hyvor Talk&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Limited&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;General-purpose blogs.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Cusdis&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Simplicity-focused users.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Cusdis&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Simplicity-focused users.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Firebase&lt;/td&gt;
-&lt;td&gt;No&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Custom solutions.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Firebase&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;No&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Custom solutions.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;Remark42&lt;/td&gt;
-&lt;td&gt;No&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Yes&lt;/td&gt;
-&lt;td&gt;Self-hosted enthusiasts.&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Remark42&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;No&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Yes&lt;/td&gt;
+&lt;td align=&quot;left&quot;&gt;Self-hosted enthusiasts.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -481,20 +624,30 @@ Engage: Respond to comments and feedback from readers.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;This helps you understand what works and refine future posts.&lt;/p&gt;
 &lt;h1&gt;Conclusion&lt;/h1&gt;
-&lt;p&gt;Writing a blog post may seem daunting at first, but with a clear process—planning, drafting, editing, and publishing—you can turn your ideas into impactful content. The most important step is to start! Over time, with practice, you’ll develop a workflow that works best for you. What’s the biggest challenge you face when writing a blog post? Let me know in the comments, and I’ll share my best tips!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Building a Fast, Modern Blog with Gatsby: A Step-by-Step Guide]]></title><description><![CDATA[Creating a blog that is not only visually appealing but also lightning-fast is easier than ever, thanks to Gatsby. This modern framework…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/build-gatsby-aa-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/build-gatsby-aa-blog/</guid><pubDate>Sun, 10 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: center;&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 365px; &quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/b7e46dc9cc36d8e546a76b204df193a3/60097/great-gatsby.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 149.36708860759492%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQAD/9oADAMBAAIQAxAAAAHhUPoL5ZQPnqEYa0WXf//EAB0QAAICAgMBAAAAAAAAAAAAAAEDAhEAEwQSICH/2gAIAQEAAQUCAssWIjrWQTnIla2GpbRrsFf0+P/EABcRAAMBAAAAAAAAAAAAAAAAAAECICH/2gAIAQMBAT8BC5H/xAAVEQEBAAAAAAAAAAAAAAAAAAARIP/aAAgBAgEBPwFj/8QAHRAAAgICAwEAAAAAAAAAAAAAAAERIQIxIGGBof/aAAgBAQAGPwIpt+C7McrLfwhRSFjMDluVo1w//8QAHBABAQEBAAIDAAAAAAAAAAAAAREAITFBEFGh/9oACAEBAAE/IZR4xp+8sZQr0uKTVLDs0PqenBK0A/MpZ47zHRqI9JjyW54vxXf/2gAMAwEAAgADAAAAEAgVwP/EABkRAQACAwAAAAAAAAAAAAAAAAEAEBEhMf/aAAgBAwEBPxDYWZir2v/EABcRAQEBAQAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8QejIAT//EAB8QAQACAwABBQAAAAAAAAAAAAERIQAxQZEQUWFxgf/aAAgBAQABPxAJUC2vMTABVIYzoaccL34xpCTriOzyYrFLMShAdALP3hsCZfgYK0CBYKio84PkufYuvfTkbY9hcIIZBj0A0p+5/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Identify Your Audience&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/b7e46dc9cc36d8e546a76b204df193a3/60097/great-gatsby.jpg&quot; srcset=&quot;/gatsby-blog-edmond/static/b7e46dc9cc36d8e546a76b204df193a3/ff44c/great-gatsby.jpg 158w,
-/gatsby-blog-edmond/static/b7e46dc9cc36d8e546a76b204df193a3/a6688/great-gatsby.jpg 315w,
-/gatsby-blog-edmond/static/b7e46dc9cc36d8e546a76b204df193a3/60097/great-gatsby.jpg 365w&quot; sizes=&quot;(max-width: 365px) 100vw, 365px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+&lt;p&gt;Writing a blog post may seem daunting at first, but with a clear process—planning, drafting, editing, and publishing—you can turn your ideas into impactful content. The most important step is to start! Over time, with practice, you’ll develop a workflow that works best for you. What’s the biggest challenge you face when writing a blog post? Let me know in the comments, and I’ll share my best tips!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Building a Fast, Modern Blog with Gatsby: A Step-by-Step Guide]]></title><description><![CDATA[Do You Still Need to Build a Website Now? I believe that when many people mentioned building a personal website, they will immediately have…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/build-gatsby-aa-blog/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/build-gatsby-aa-blog/</guid><pubDate>Sun, 10 Nov 2024 22:40:32 GMT</pubDate><content:encoded>&lt;div style=&quot;text-align: center;&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/gatsby-blog-edmond/static/d5c574a3b3964a3e0687e05cf09647ab/6d2da/great-gatsby.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 42.405063291139236%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABJ0AAASdAHeZh94AAACGElEQVR42k2SXUiTYRiGv+mcyyLFQOpA8STqJIggBEFCZBBWyKB/05OkMj2ICPo56iCKfg6CjqKgIg/CRn8y82fNbX7qpDBFnWNz5dYmS9vUTWz7Nne17820G16e9+B+r+fmfR5Jry9Ep9vC7vIyyrbvQJIkTp44g6rV1QxJJcl8zzvcNgvP29oIBoNEI1Esvb2Ew2EUJUUmk1k/kqTRUVJUyMNLDZyt2U9eXgE3bt4VwKyD1WyJd7/FY+nC3N2Dx+0mFArhztZAIEAsFud/SVsLt7GntJTBWy28bKpjZ/ku7j96SjDgx2rtw263s6IoLP9OkE6n1/pksskUUqkUs7Mh5H4HsiyztLSEdPGIgXut53h/tZknx2uoMRhovnyNoQEZ57CTryMj+Ka9KkYNLGD/pKZ0OOwMOZ2i8fjEONKDU7W8uHAMY2UFRyv2sqmohKbzLUQX4lisA7SbTExOeJibiZFYUQQoFovh9wdYjsdZWFwkkUisJ5fqqquorT6ArmAzBw8dFkNpbGjEMx3kyvU77Kus4tnjN7y6PczM1Jx4ODf/i2/+HyLhhGsKr9ezAdTkasnP15Obk0NxcbEA1tefFobRsUnkwc+MjU7ypd9FKvn3DyORCDabnT5bH2azGZ/PtwHU5+sERKPRoNVqxd1oNArDlMtFd9dHXpva8aylUPUzuy7WT1Y6Ozvp+NDB9xm/2Ah1yn8ANNPj17xBoO8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;img class=&quot;gatsby-resp-image-image&quot; alt=&quot;Identify Your Audience&quot; title=&quot;&quot; src=&quot;/gatsby-blog-edmond/static/d5c574a3b3964a3e0687e05cf09647ab/f058b/great-gatsby.png&quot; srcset=&quot;/gatsby-blog-edmond/static/d5c574a3b3964a3e0687e05cf09647ab/c26ae/great-gatsby.png 158w,
+/gatsby-blog-edmond/static/d5c574a3b3964a3e0687e05cf09647ab/6bdcf/great-gatsby.png 315w,
+/gatsby-blog-edmond/static/d5c574a3b3964a3e0687e05cf09647ab/f058b/great-gatsby.png 630w,
+/gatsby-blog-edmond/static/d5c574a3b3964a3e0687e05cf09647ab/6d2da/great-gatsby.png 936w&quot; sizes=&quot;(max-width: 630px) 100vw, 630px&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 &lt;/div&gt;
+&lt;h1&gt;Do You Still Need to Build a Website Now?&lt;/h1&gt;
+&lt;p&gt;I believe that when many people mentioned building a personal website, they will immediately have questions such as &quot;With the prevalence of social platforms and numerous blogging platforms, do I still need to build a website?&quot; or &quot;Is it expensive to build a website?&quot; ......&lt;/p&gt;
+&lt;p&gt;My answer is: Of course! it is necessary! My reasons are as follows and setting up a website is not expensive!!!&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I remember that many creators simply put their articles or creative content directly on social platforms at the beginning. Once the social platform policies are significantly adjusted or revised, the creators may face the sudden disappearance of their creative content and may even be unable to restore it. The creator needs suffer the consequences of losing everything you have built, and it is heartbreaking. &lt;br&gt;  &lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Therefore, my idea is that no matter how popular the social platform is, you must have your own website. It is just like having your own home, while the role of the social platform is more auxiliary, like an showcase for advertising exposure or a salon where you can interact with others. In the end, The creative content must be on your own website.&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;As your social platform of blog posts adjusts plarform SEO policy, your articles might become increasingly difficult to be searched. &lt;br&gt;  &lt;br&gt; Some people may not know what SEO (Search Engine Optimization) is. The better you improve your SEO, the higher your blog posts will be ranked in Google searches. Then your blog post will get more clicks. When people are looking for information, they are inclined to click on the links in the first few pages.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1&gt;Why Choose Gatsby for Your Blog?&lt;/h1&gt;
 &lt;p&gt;Creating a blog that is not only visually appealing but also lightning-fast is easier than ever, thanks to Gatsby. This modern framework allows developers to build blogs with exceptional performance, scalability, and SEO capabilities. In this guide, we’ll take you through the steps to create your own Gatsby-powered blog, whether you’re a coding novice or a seasoned developer.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;Why Choose Gatsby for Your Blog?&lt;/h2&gt;
-&lt;p&gt;Gatsby is a React-based framework that offers numerous benefits:&lt;/p&gt;
+&lt;p&gt;Gatsby is offers numerous benefits:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Blazing Speed&lt;/strong&gt;: Gatsby’s static site generation ensures your blog loads quickly.&lt;/p&gt;
@@ -512,17 +665,19 @@ Engage: Respond to comments and feedback from readers.&lt;/p&gt;
 &lt;p&gt;Now, let’s dive into building your blog step-by-step.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2&gt;1. Setting Up Your Development Environment&lt;/h2&gt;
-&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
 &lt;p&gt;Prerequisites&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;ol&gt;
-&lt;li&gt;Node.js (v20.18.0 LTS)&lt;/li&gt;
-&lt;li&gt;Git&lt;/li&gt;
-&lt;li&gt;Gatsby cli (5.13.3)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;Node.js&lt;/code&gt; (v20.18.0 LTS)&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;Git&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;Gatsby CLI&lt;/code&gt; (5.13.3)&lt;/li&gt;
 &lt;/ol&gt;
-&lt;blockquote&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;gatsby-cli&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;shell&quot;&gt;&lt;pre class=&quot;language-shell&quot;&gt;&lt;code class=&quot;language-shell&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;token parameter variable&quot;&gt;-g&lt;/span&gt; gatsby-cli&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3&gt;Create a New Gatsby Project&lt;/h3&gt;
 &lt;p&gt;Run the following command to create your Gatsby project:&lt;/p&gt;
@@ -627,5 +782,5 @@ Welcome to my first blog post built with Gatsby&lt;span class=&quot;token operat
 &lt;p&gt;&lt;strong&gt;Integrate CMS&lt;/strong&gt;: Connect a headless CMS for dynamic content management.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1&gt;Conclusion: Build Your Blog Today&lt;/h1&gt;
+&lt;h1&gt;Build Your Blog Today&lt;/h1&gt;
 &lt;p&gt;With Gatsby, you can create a blog that is modern, scalable, and fast. By following this guide, you’ll have a functional blog in no time. Ready to take it to the next level? Explore additional Gatsby plugins and integrations to further enhance your blog’s functionality. Share your journey in the comments below or subscribe for more web development tips!&lt;/p&gt;</content:encoded></item></channel></rss>
